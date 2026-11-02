@@ -1,0 +1,60 @@
+{
+    "categories": [
+        {
+            "name": "Blended Learning",
+            "slug": "blended-learning",
+            "description": null,
+            "sort_order": 0
+        },
+        {
+            "name": "In-person Classes",
+            "slug": "in-person",
+            "description": null,
+            "sort_order": 1
+        },
+        {
+            "name": "Books",
+            "slug": "books",
+            "description": null,
+            "sort_order": 2
+        }
+    ],
+    "products": [
+        {
+            "slug": "awfa40-blended",
+            "title": "2 Day WFR Recert or AWFA 34 Hr Blended Course [dual certs same class]",
+            "excerpt": "This dual purpose class gives the non WFR an AWFA and Recerts most WFRs",
+            "body_html": "<p>This dual purpose class gives the non WFR an AWFA and Recerts most WFRs</p>",
+            "price": 310,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/WFRClass1-small_120.jpg",
+            "category_slugs": ["blended-learning", "in-person"],
+            "variants": [
+                {"label": "WFR-Recert 2 Yrs or less", "price": 310},
+                {"label": "WFR-Recert 3 Yrs or less", "price": 350}
+            ],
+            "original_url": "/awfa40-blended"
+        },
+        {
+            "slug": "placeholder-kit",
+            "title": "WMO Trauma Kit",
+            "excerpt": "Trauma kit with no unique photo.",
+            "body_html": "<p>Trauma kit with no unique photo.</p>",
+            "price": 57,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/default_images/book_uncertain_times.jpg",
+            "category_slugs": ["books"],
+            "variants": [],
+            "original_url": "/product/placeholder-kit"
+        },
+        {
+            "slug": "wfa20",
+            "title": "WFA20 Hr Course",
+            "excerpt": "Four online video lessons plus in-person skills.",
+            "body_html": "<p>Four online video lessons plus in-person skills.</p>",
+            "price": 275,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/WFACover_0.jpg",
+            "category_slugs": ["blended-learning"],
+            "variants": [],
+            "original_url": "/product/wfa20"
+        }
+    ]
+}

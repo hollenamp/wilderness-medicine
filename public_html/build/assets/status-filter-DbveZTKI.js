@@ -1,0 +1,6 @@
+import{j as e}from"./app-CX00ZCEx.js";import{D as c,a as l,b as h,d as x,e as p,f as u}from"./DropdownMenu-d5qYqc76.js";import{B as m}from"./badge-CaCvrTdd.js";import{c as f}from"./createLucideIcon-VIg_yfmc.js";/**
+ * @license lucide-react v0.447.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const g=f("CirclePlus",[["circle",{cx:"12",cy:"12",r:"10",key:"1mglay"}],["path",{d:"M8 12h8",key:"1wcyev"}],["path",{d:"M12 8v8",key:"napkw2"}]]);function D({column:a,title:d,options:o}){const s=new Set((a==null?void 0:a.getFilterValue())??[]);function i(r,n){const t=new Set(s);n?t.add(r):t.delete(r),a==null||a.setFilterValue(t.size?Array.from(t):void 0)}return e.jsxs(c,{children:[e.jsx(l,{asChild:!0,children:e.jsxs("button",{type:"button",className:"flex h-8 items-center gap-2 rounded-md border border-dashed border-input px-3 text-sm font-medium hover:bg-accent hover:text-accent-foreground",children:[e.jsx(g,{className:"size-3.5"}),d,s.size>0&&e.jsx(m,{variant:"secondary",className:"rounded-sm px-1.5 font-normal",children:s.size})]})}),e.jsxs(h,{align:"start",className:"min-w-40",children:[e.jsx(x,{children:d}),e.jsx(p,{}),o.map(r=>e.jsx(u,{checked:s.has(r.value),onCheckedChange:n=>i(r.value,!!n),children:r.label},r.value))]})]})}export{D};

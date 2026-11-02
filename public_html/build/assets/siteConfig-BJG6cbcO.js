@@ -1,0 +1,1 @@
+const e="/images/wilderness-medicine-outfitters-logo-color-01.png",r="/images/wilderness-medicine-outfitters-logo-color-01.png",n={"/images/wm-logo.png":e,"images/wm-logo.png":e};function s(t,i=e){if(typeof t!="string")return i;const o=t.trim();return o?n[o]??o:i}export{e as D,r as a,s as r};

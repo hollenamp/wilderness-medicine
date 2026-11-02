@@ -1,0 +1,1 @@
+function i(e){var n;if(typeof document>"u")return;const o=`; ${document.cookie}`.split(`; ${e}=`);if(o.length===2)return(n=o.pop())==null?void 0:n.split(";").shift()}function u(e,t,o=604800){typeof document>"u"||(document.cookie=`${e}=${t}; path=/; max-age=${o}`)}function c(e){typeof document>"u"||(document.cookie=`${e}=; path=/; max-age=0`)}export{i as g,c as r,u as s};

@@ -1,0 +1,2168 @@
+{
+    "categories": [
+        {
+            "name": "Blended Learning",
+            "slug": "blended-learning",
+            "description": null,
+            "sort_order": 0
+        },
+        {
+            "name": "Distance Learning",
+            "slug": "distance-learning",
+            "description": null,
+            "sort_order": 1
+        },
+        {
+            "name": "In-person Classes",
+            "slug": "in-person",
+            "description": null,
+            "sort_order": 2
+        },
+        {
+            "name": "Books",
+            "slug": "books",
+            "description": null,
+            "sort_order": 3
+        },
+        {
+            "name": "Medical Kits",
+            "slug": "medical-kit",
+            "description": null,
+            "sort_order": 4
+        },
+        {
+            "name": "Survival Items",
+            "slug": "survival-items",
+            "description": null,
+            "sort_order": 5
+        },
+        {
+            "name": "Over the Counter Med Items",
+            "slug": "over-the-counter-med-items",
+            "description": null,
+            "sort_order": 6
+        },
+        {
+            "name": "Individual Items",
+            "slug": "individual-items",
+            "description": null,
+            "sort_order": 7
+        },
+        {
+            "name": "Non-Medical Items",
+            "slug": "non-medical-items",
+            "description": null,
+            "sort_order": 8
+        }
+    ],
+    "products": [
+        {
+            "slug": "awfa40-blended",
+            "title": "2 Day WFR Recert or AWFA 34 Hr Blended Course [dual certs same class]",
+            "excerpt": "This dual purpose class gives the non WFR an AWFA and Recerts most WFRs ONLINE 8 lessons of reading, powerpoint and videos with 8 online quizzes PLUS 2 days of mostly skills IN-PERSON: Take 8 lessons...",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p><strong><strong>This dual purpose class gives the non WFR an AWFA and Recerts most WFRs</strong></strong></p>\n<p><strong>ONLINE 8 lessons of reading, powerpoint and videos with 8 online quizzes<br>\nPLUS 2 days of mostly skills IN-PERSON: Take 8 lessons online at your time and pace.<br>\nThen, 2 days in-person to complete the training.</strong></p>\n<p><strong>BONUS paid registration 30 days in advance early. First day of class you may select a bonus gift.</strong></p>\n<p><strong><strong>Dates / Locations: Various - see below.<br>\nClass day is 9 hours,  bring lunch. Adult CPR &amp; AED is additional hour after class ends</strong></strong></p>\n<p><strong><strong><strong><strong>CPR/AED option no charge upon passing test 1st take.<br>\nREQUEST STUDY GUIDE EMAILED ASAP  $15 fee to retake exam.</strong></strong></strong></strong></p>\n<p>This class is the closest to the Wilderness First Responder (WFR) and exceeds all entry level camp staff requirements, Boy Scout leaders and even basic guiding needs. The serious student can make this a 48 hr class with the addition of 8 additional hours of on line learning at no additional cost.</p>\n<p><strong>Skill Weekend Dates / Location many classes S of Golden CO:</strong><br><strong>call for other locations 303-688-5176</strong><br>\nApril 27-28<br>\nMay 25-26<br>\nJune  8-9<br>\nAug 17-18</p>\n<p>Oct 27-28, 2018,<br>\nNov 10-11, 2018,<br>\nDec 1-2, 2018,</p>\n<p> </p>\n</div>",
+            "price": 310,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/WFRClass1-small_120.jpg",
+            "category_slugs": [
+                "blended-learning",
+                "in-person"
+            ],
+            "variants": [
+                {
+                    "label": "WFR-Recert 2 Yrs or less",
+                    "price": 310
+                },
+                {
+                    "label": "WFR-Recert 3 Yrs or less",
+                    "price": 350
+                },
+                {
+                    "label": "WFR-Recert 5 Yrs or less",
+                    "price": 445
+                }
+            ],
+            "original_url": "/awfa40-blended"
+        },
+        {
+            "slug": "wfa-24-blended",
+            "title": "WFA 24 Hr Blended Course",
+            "excerpt": "ONLINE 4 lessons of reading, 4 video to watch with 4 on line quizzes to take PLUS 1 day many skills IN-PERSON: Take most of the course online at your pace. Then, 1 day in-person to complete the traini...",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p><strong>ONLINE 4 lessons of reading, 4 video to watch with 4 on line quizzes to take<br>\nPLUS 1 day many skills IN-PERSON: Take most of the course online at your pace.<br>\nThen, 1 day in-person to complete the training.</strong></p>\n<p><strong>BONUS: If you sign up online in advance, receive a free bonus the day of class.</strong></p>\n<p><strong><strong>Dates: Various - call office-303-688-5176.<br>\nClass day is 8 hours,  bring lunch. Adult CPR &amp; AED is taught at class end</strong></strong></p>\n<p><strong><strong><strong><strong>CPR/AED option is included.<br>\nYOU MUST REQUEST STUDY GUIDE EMAILED ASAP and be prepared to pass test 1st time or $15 extra fee to retake exam.</strong></strong></strong></strong></p>\n<p>This class exceeds entry level camp staff requirements, Boy Scout leaders and basic guiding needs in many situations. It covers a portion of the true guide courses, with less repetition. Some folk take this 24 hr Intermediate WFA as a preparatory for more advanced training.</p>\n<p>If you can do 4 lessons at home and only want to invest one 8 hour day in person, WMO’s Blended WFA 24 is the one for you!<br>\nIt is more advanced than many other WFAs and taught by very experienced instructors vs a person reading to you with little field time.</p>\n<p>Price includes $35 E-Text, $11 Field Guide, CPR fee and Materials Fees. Upon payment by PayPal, instructions on how to download the course textbook as PDF is sent by email.  Field guide is picked up in class or can be mailed early for fee - call to arrange.</p>\n<p><strong> Location:</strong> <br>\nWMO Conservation preserve, Elizabeth, CO</p>\n<p>Camping over night can be arranged.</p>\n</div>",
+            "price": 300,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/WFRClass1-small_59.jpg",
+            "category_slugs": [
+                "blended-learning",
+                "in-person"
+            ],
+            "variants": [],
+            "original_url": "/wfa-24-blended"
+        },
+        {
+            "slug": "awfa-bl",
+            "title": "AWFA blended learning",
+            "excerpt": "This is a continuation of our WFA20 Wilderness First Aid course. There are 7 additional lessons with quiz segment to be taken in addition to WFA20. Group and individual in-person session are available...",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>This is a continuation of our WFA20 Wilderness First Aid course.<br>\nThere are 7 additional  lessons with quiz segment to be taken in addition to WFA20.<br>\nGroup and individual in-person session are available in customized formats , arrange through WMO office.<br>\nPaid separately and in addition to the 4 lessons of the WFA20-<br>\nCost varies with location and number of students and extra module such as CPR taken --base cost $275, Average $350 </p>\n<h2><strong>Emergency Medicinal Responder credential can be earned with this class </strong><br>\nThe add to cart amount is only for online portion.</h2>\n</div>",
+            "price": 275,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/default_images/book_uncertain_times.jpg",
+            "category_slugs": [
+                "blended-learning"
+            ],
+            "variants": [],
+            "original_url": "/product/awfa-bl"
+        },
+        {
+            "slug": "wfa20",
+            "title": "WFA20 Hr Course",
+            "excerpt": "WMO WFA20 Blended learning This blended learning course meets basic outdoor Wilderness First Aid (WFA) requirements. It includes both online self pacing studies and in person review and hands on skill...",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>WMO WFA20 Blended learning</p>\n<p>This blended learning course meets basic outdoor Wilderness First Aid (WFA) requirements.<br>\nIt includes both online self pacing studies and in person review and hands on skills with an instructor.</p>\n<p><strong>We are asked often if we can help with a skill instructor in [blank] town and YES WE CAN but we need your help</strong> to get you trained in time with the skill instruction listed under details. Click the Details link below.</p>\n<p>Student receives access to four on line video lessons.<br>\nEach lesson ranges from one to two hours in length<br>\nand includes an 76 page text to download.</p>\n<p>Complete WFA20 Course Description [ <a href=\"/wfa20\">Click HERE</a> ]</p>\n<p>some take this before taking WMOs more advanced wilderness medicine training.</p>\n<p><strong>You can  upgrade this course to AWFA &amp; EMR over next 6 months</strong></p>\n</div>",
+            "price": 275,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/WFACover_0.jpg",
+            "category_slugs": [
+                "blended-learning"
+            ],
+            "variants": [],
+            "original_url": "/product/wfa20"
+        },
+        {
+            "slug": "wmo-mini-lessons-group-1-and-2-and-3",
+            "title": "WMO Mini lessons Group 1 and 2-and 3",
+            "excerpt": "Mini lessons Group 1 is free, register at Learn.WildernessMedicine.com choose \"Mini lessons Group 1\" -- use entry key free Mini lessons Group 2 and 3 are $25 each Testing for 11hrs credits from all 3...",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><h2><strong>Mini lessons Group 1 is free, register at<br>\nLearn.WildernessMedicine.com <br>\nchoose \"Mini lessons Group 1\"<br>\n-- use entry key free</strong></h2>\n<h2><strong>Mini lessons Group 2 and 3 are $25 each  Testing for 11hrs  credits from all 3 is additional $25 call office to arrange 303-688-5176</strong></h2>\n<p>online collection of videos, notes and articles. We continually add to this valuable resource. <strong>WMO's 2nd set of mini lessons </strong>This learning resource was created for and is available only to paid students of WMO courses.</p>\n<h2><strong>All 3 groups of mini lessons offer Re-certification Credits </strong></h2>\n<p>These items can now be purchased separately.</p>\n<p>Upon purchase, we will send you the detailed instructions on how enroll in the online course and access its contents.</p>\n<p><strong>ALWAYS</strong> include your best reachable ph # so we can quickly reach you if needed to help you through some perceived computer issue</p>\n</div>",
+            "price": 25,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/default_images/book_uncertain_times.jpg",
+            "category_slugs": [
+                "distance-learning"
+            ],
+            "variants": [],
+            "original_url": "/product/wmo-mini-lessons-group-1-and-2-and-3"
+        },
+        {
+            "slug": "anaphylaxis-epinephrine",
+            "title": "Anaphylaxis & Epinephrine",
+            "excerpt": "Level 1: Free Once you have viewed our free video course on this subject, you can further your knowledge and verify it through testing.https://wildernessmedicine.com/epi Level 2 & 3 give you the full...",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>Level 1: Free<br>\nOnce you have viewed our free video course on this subject, you can further your knowledge and verify it through testing.<br><a href=\"/epi\">https://wildernessmedicine.com/epi</a> Level 2 &amp; 3 give you the full course<br>\nRegister at the course site: <a href=\"http://learn.wildernessmedicine.com\">http://learn.wildernessmedicine.com</a><br>\nEmail forms to <a href=\"mailto:Carl@WildernessMedicine.com\">Carl@WildernessMedicine.com</a> [may be written or typed]   to receive the codes to start <br>\n1st a repeatable practice test  then more comprehensive training to help you feel more comfortable handling an Anaphylaxis Emergency.  <strong>PLEASE take notes on the Video,PowerPoint and very short text so you can</strong><br>\nPass the comprehensive 2nd take once test for credentialing.<br>\n IF you did not study enough you can still pass with extra written work</p>\n<p>This comprehensive training will help you feel more comfortable  handling an Anaphylaxis Emergency.</p>\n<p>ANA/EPI-Certification  meets most current state level requirements.<br>\n30+ states now have some sort of requirement on EPI delivery by the public.<br><strong>Using medications requires careful attention to all directions.</strong><br>\nCompleted forms, photo showing trainer in WMO method and 80%  quizzes gives you  printable certificate and  card.</p>\n<p>Anaphylaxis &amp; Epinephrine Student Information:<br>\n[ <a href=\"/sites/wildernessmedicine.com/files/Ana-Epi-2-3Info.pdf\">PDF Version</a> ]  [ <a href=\"/sites/wildernessmedicine.com/files/Ana-Epi-2-3Info.doc\">DOC version</a> ]</p>\n<p>Anaphylaxis &amp; Epinephrine Contract &amp; Release:<br>\n[ <a href=\"/sites/wildernessmedicine.com/files/Ani-Epi-2-3Waiverv5.pdf\">PDF Version</a> ]  [ <a href=\"/sites/wildernessmedicine.com/files/Ani-Epi-2-3Waiverv5.doc\">DOC version</a> ]</p>\n<p>ALWAYS <u>include your  phone number so we can quickly give you help </u></p>\n</div>",
+            "price": 35,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/default_images/book_uncertain_times.jpg",
+            "category_slugs": [
+                "distance-learning"
+            ],
+            "variants": [],
+            "original_url": "/product/anaphylaxis-epinephrine"
+        },
+        {
+            "slug": "awfa48",
+            "title": "Advanced Wilderness First Aid (AWFA48) also EMR credential",
+            "excerpt": "Advanced Wilderness First Aid Distance Learning Course 48 Hours Price includes $200 Text and Materials Fee Full AWFA48 Course Description [ Click HERE ] a course just below the Wilderness First Respon...",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>Advanced Wilderness First Aid Distance Learning Course<br>\n\t48 Hours</p>\n<p>Price includes $200 Text and Materials Fee</p>\n<p>Full AWFA48 Course Description [ <a href=\"/distance-learning/awfa\">Click HERE</a> ]<br>\n\ta course just below the Wilderness First Responder (WFRT)</p>\n<p>*With the addition of an EMR O2 and child birth session this also qualifies for an EMR certificate.<br>\n\tAs of 2015 we are doing this on an individual beta optional bases. Pages on both topics are in the text and are <br>\n\tcombined with an extra subject test. Call WMO office for more details.</p>\n</div>",
+            "price": 645,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/AWFA48.jpg",
+            "category_slugs": [
+                "distance-learning"
+            ],
+            "variants": [],
+            "original_url": "/product/awfa48"
+        },
+        {
+            "slug": "wmo-inst",
+            "title": "Online Instructors Course",
+            "excerpt": "On line Wilderness Medicine distance learning based Instructors course. While studying at your chosen time at your speed, you save 2 or more days of in person training and get much more out of your in...",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>On line Wilderness Medicine distance learning based Instructors course.</p>\n<p>While studying at your chosen time at your speed, you save 2 or more days of in person training and get much more out of your in person time with a WMO Instructor Trainer.</p>\n<p>Completion of this on line work is usually followed by a 1 day in person live class with an instructor trainer which is then followed by 2 to 3 mentored live WFA classes the student teaches while being mentored and assisted by a senior WMO instructor. Price for the live sessions varies and is sometimes at no cost to the instructor candidate. This is a progressive course usually giving WFA authority and if the candidate wishes and works in the direction towards allowing progression to AWFA, WFR, WALS. </p>\n</div>",
+            "price": 275,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/default_images/book_uncertain_times.jpg",
+            "category_slugs": [
+                "distance-learning"
+            ],
+            "variants": [],
+            "original_url": "/product/wmo-inst"
+        },
+        {
+            "slug": "cpr-line-course",
+            "title": "CPR on line course",
+            "excerpt": "CPR on line course - This is a self study self improvement course For an additional $10 fee with some on line work with an online instructor it can include a full CPR credential. entry code will be se...",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>CPR on line course - This is a self study self improvement course </p>\n<p>For an additional $10 fee with some on line work with an online instructor<br>\nit can include a full CPR credential.<br>\nentry code will be sent upon payment.</p>\n<p>Student must arrange with WMO for hands-on session upon completion<br>\nof online portion for full CPR credential</p>\n</div>",
+            "price": 25,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/CPRImage2_3.jpg",
+            "category_slugs": [
+                "distance-learning"
+            ],
+            "variants": [],
+            "original_url": "/product/cpr-line-course"
+        },
+        {
+            "slug": "wfr-2019-03",
+            "title": "WFR/WEMT Courses arranged with interested groups call 303-688-5176",
+            "excerpt": "WFR Course / WEMT module. 76-hours. Bonus valuable First Aid Kit FREE if you pay 30 days in advance for Full Class Registration (not deposit). Enrollment deposit holds your place in the class, balance...",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>WFR Course / WEMT module. 76-hours. </p>\n<p><strong>Bonus valuable First Aid Kit FREE if you pay 30 days in advance for Full Class Registration (not deposit).</strong></p>\n<p>Enrollment deposit holds your place in the class, balance due before  class.</p>\n<p>Detailed WFR/WEMT course Description [ <a href=\"/wfr\">Click HERE</a> ]</p>\n<p>**********************************<br>\nWFR/WEMT Re-certification:</p>\n<p>If your WFR certification is out of date by 5 years or less, WMO can recertify you.</p>\n<p>For details on WFR Re-cert, including Pre-Requisites, Books, etc.<br>\nSee the <a href=\"/wilderness-first-responder-recertification-course\">WFR-Recert details page</a></p>\n<p>If your WFR certification is out of date by 5 years or less, WMO can recertify you.</p>\n<p>We offer 4 scenarios if in 2 year expiration, 5 if in 3 yr, 7 if in 5 years. There are quizzes and a written exam.</p>\n<p>Prerequisites:<br>\nProof of WFR certification (WFR card) showing date.<br>\nTake a picture of your card with your Smartphone and email the photo proof to <a href=\"mailto:carl@wildernessmedicine.com\">carl@wildernessmedicine.com</a></p>\n<p>Books:<br>\nWFR Book Set is now included.If you wish an extra set then [ Click HERE for book set ]</p>\n<p>Pro CPR:<br>\nIf you need to re-certify your Professional 2-person CPR (typically good for 2 years), you can do that as part of this course.<br>\nYou will need to be present on our CPR training and test session.</p>\n<p>If you cannot be present on the dates to re-certify in CPR, you will need to purchase our separate CPR course.</p>\n</div>",
+            "price": 195,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/WFRClass1-small_55.jpg",
+            "category_slugs": [
+                "in-person"
+            ],
+            "variants": [
+                {
+                    "label": "WFR 2019-03 S. of Golden - Enrollment Deposit only",
+                    "price": 195
+                },
+                {
+                    "label": "WFR-Recert 2019-03 S. of Golden 2 Yrs or less",
+                    "price": 310
+                },
+                {
+                    "label": "WFR-Recert 2019-03 S. of Golden 3 Yrs or less",
+                    "price": 335
+                },
+                {
+                    "label": "WFR-Recert 2019-03 S. of Golden 5 Yrs or less",
+                    "price": 445
+                },
+                {
+                    "label": "WFR 2019-03 S. of Golden - Full Class Registration",
+                    "price": 695
+                }
+            ],
+            "original_url": "/product/wfr-2019-03"
+        },
+        {
+            "slug": "bls-cpr",
+            "title": "BLS CPR",
+            "excerpt": "BLS CPR Course. Available as Full course, Renewal only or Skills Session only. Location and date/time will be confirmed after purchase. individual private classes available call to learn more details...",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>BLS CPR Course.</p>\n<p>Available as Full course, Renewal only or Skills Session only.<br>\n\tLocation and date/time will be confirmed after purchase.<br>\n\tindividual private classes available call to learn more details varies with time and location</p>\n</div>",
+            "price": 37,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/CPRImage2.jpg",
+            "category_slugs": [
+                "in-person"
+            ],
+            "variants": [
+                {
+                    "label": "BLS CPR Full Class",
+                    "price": 57
+                },
+                {
+                    "label": "BLS CPR Renewal",
+                    "price": 47
+                },
+                {
+                    "label": "BLS CPR Skills Session",
+                    "price": 37
+                }
+            ],
+            "original_url": "/product/bls-cpr"
+        },
+        {
+            "slug": "wfrwemt-book-set",
+            "title": "WFR/WEMT Book set",
+            "excerpt": "The WFR/WEMT module book set includes three books: - Backcountry Medical Care 4th Edition - Wilderness Medicine, Beyond First Aid 6th Edition by Wm. Forgey - WMO WFR/WEMT Text 2014 Edition wilderness...",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>The WFR/WEMT module book set includes three books:<br>\n\t- <a href=\"/product/backcountry-medical-care\">Backcountry Medical Care</a> 4th Edition<br>\n\t- <a href=\"/product/wilderness-medicine-beyond-first-aid\">Wilderness Medicine, Beyond First Aid</a> 6th Edition by Wm. Forgey<br>\n\t- <a href=\"/product/wfr-text-2012\">WMO WFR/WEMT Text</a> 2014 Edition wilderness emt, wilderness first responder</p>\n<p>If you are taking a WFR/WEMT <strong>Re-certification course</strong>, you must have these books. If you have these books from an earlier WFR class, you are all set, bring them with you to class. You must purchase a new book for any edition prior to those shown above.</p>\n<p>If you are taking the full WFR/WEMT module Class (non-recert) from WMO, these books are included in your course price.</p>\n<p>The book set package price is a savings over separately purchased.</p>\n</div>",
+            "price": 55,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/default_images/book_uncertain_times.jpg",
+            "category_slugs": [
+                "in-person",
+                "books"
+            ],
+            "variants": [],
+            "original_url": "/product/wfrwemt-book-set"
+        },
+        {
+            "slug": "uncertain-times",
+            "title": "Uncertain Times",
+            "excerpt": "UNCERTAIN TIMES CARL WEIL & OTHER Experts: 2 Survival Instructors, 3 Doctors, 2 Medic Instructors, 3 Radio Operators, 3 Water & Food Specialists, 4 Police Officers & Riflemen, Veterans; 2 Army, 2 USMC...",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><h1><strong>UNCERTAIN TIMES</strong>  </h1>\n<p>CARL WEIL &amp; OTHER Experts: 2 Survival Instructors,<br>\n3 Doctors, 2 Medic Instructors, 3 Radio Operators, <br>\n3 Water &amp; Food Specialists, 4 Police Officers<br>\n&amp; Riflemen, Veterans; 2 Army, 2 USMC</p>\n<p>Helping you prepare for today's &amp; tomorrows possible challenges. 10 information packed chapters:<br>\n1) Water / Sanitation          2) Pantry / Food<br>\n3) Security / Defense          4) Medical / Surgical<br>\n5) CommUnity / Group       6) Communication / Radio<br>\n7) Pharmacy / Meds           8) Power / Energy<br>\n9) Equipment / Supplies   10) Logistics / Survival<br>\n use coupon code: \"15%OFF\" at checkout to save 15% </p>\n<p>/vol/JSZA/d7-3prod/public_html/includes/bootstrap.inc</p>\n</div>",
+            "price": 21,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/default_images/book_uncertain_times.jpg",
+            "category_slugs": [
+                "books"
+            ],
+            "variants": [],
+            "original_url": "/product/new-book-released-10-10-24"
+        },
+        {
+            "slug": "wilderness-ems-book",
+            "title": "Wilderness EMS Book",
+            "excerpt": "SOLD OUT !!!!!!!!Wilderness EMS Book This is the first Wilderness EMS textbook ever published [580pgs] released Nov 2017. Carl took the largest number of the photos seen in the book. Carl wrote on the...",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p><strong>SOLD OUT !!!!!!!!Wilderness EMS Book</strong><br>\nThis is the first <strong>Wilderness EMS</strong> textbook ever published [580pgs] released Nov 2017.<br>\nCarl took the largest number of the photos seen in the book. Carl wrote on the latest of Wilderness Medicine and survival back packable gear. Coauthors are all well known in the field of wilderness medicine. Most are Doctors</p>\n<p>19 of the coauthors hold Fellow of Wilderness Medicine degrees and 2 hold Master of Wilderness Medicine degrees. <strong>Carl WAS THE FIRST TO  earn both Degrees</strong></p>\n<p>BOOK IS SOLD OUT---- USED COPIES bring as much as when new WE DO NOT SELL  THIS NOW</p>\n<p> </p>\n</div>",
+            "price": 90,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/WildernessEMS-400px.jpg",
+            "category_slugs": [
+                "books"
+            ],
+            "variants": [
+                {
+                    "label": "Wilderness EMS Book",
+                    "price": 119.99
+                },
+                {
+                    "label": "Wilderness EMS - Signed by Author",
+                    "price": 90
+                }
+            ],
+            "original_url": "/product/wilderness-ems-book"
+        },
+        {
+            "slug": "backcountry-medical-care",
+            "title": "Backcountry Medical Care [4th edition]",
+            "excerpt": "Backcountry Medical Care - Quick Reference 4th Edition by Carl Weil / Wilderness Medicine Outfitters National Geographic listed \"eight tools to save your hide abroad\" and said in the May adventure iss...",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>Backcountry Medical Care - Quick Reference 4th Edition<br>\n\tby Carl Weil / Wilderness Medicine Outfitters</p>\n<p>National Geographic listed \"eight tools to save your hide abroad\" and said in the May adventure issue:<br>\n\tGet your facts straight with the new wilderness first aid reference book from Wilderness Medicine Outfitters. The book is good for wilderness first aiders, wilderness first responders, physicians or those with little training.</p>\n<p>-12 reasons carry this book in your pack-<br>\n\t1. Bright white text stock. Easier to read especially in low light emergencies<br>\n\t2. Large type. Many are in 8 to 10 point. Carl chose 12 point for easier reading under stress.<br>\n\t3. Water resistive, tear resistive synthetic paper. A more expensive environmentally friendly synthetic to last longer. Most others are printed on much cheaper but not usable if wet “news print paper”. Ours is DURABLE<br>\n\t4. Latest information in this updated edition. The newest in epinephrine delivery, updated burn section, updated CPR information, the latest in altitude.<br>\n\t5. 32 practical outdoor usable drawings. These allow the reader more understanding than other books with far fewer.<br>\n\t6. Simplified language. To help guide and remind the trained as well novice first aiders.<br>\n\t7. Improved emergency page headings. Designed to help you deal directly and effectively with field medical emergencies.<br>\n\t8. Thicker coated synthetic cover for durability.<br>\n\t9. Reader suggested topic development and clarification. Reorganized and rewritten to assist in emergency quick care based on user input.<br>\n\t10. A field use, lightweight, tough, find and fix it book. This does not have the unnecessary for field care extensive study and reference sections for reading at home like most others.<br>\n\t11. Strong, well recognized, cover recommendations by Doctor William Forgey (Wilderness Medicine Pioneer), Jeff Lowe (highly experienced mountaineer), and National Geographic (in its may issue of Adventure)<br>\n\t12. Light, small and extremely durable.</p>\n</div>",
+            "price": 10.75,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/BackCountryCare4th-front.png",
+            "category_slugs": [
+                "books"
+            ],
+            "variants": [],
+            "original_url": "/product/backcountry-medical-care"
+        },
+        {
+            "slug": "wfa-text",
+            "title": "Wilderness First Aid WMO Text",
+            "excerpt": "Wilderness First Aid WMO Text 2020 edition [some new art work and a lot of updates!] by Carl Weil / Wilderness Medicine Outfitters 75 pages best if used with a WMO class such as on line- with ZOOMhttp...",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>Wilderness First Aid WMO Text 2020 edition<br>\n [some new art work and a lot of updates!]<br>\nby Carl Weil / Wilderness Medicine Outfitters<br>\n75 pages<br>\nbest if used with a WMO class such as on line- with ZOOM<br><a href=\"http://learn.wildernessmedicine.com/\">http://learn.wildernessmedicine.com/</a></p>\n<p>Chapter 1 Introductory Data<br>\nChapter 2 Emergency Medical Field<br>\nChapter 3 Anatomy and Physiology<br>\nChapter 4 Assessment<br>\nChapter 5 Cardiac/Pulmonary<br>\nChapter 6 Wounds<br>\nChapter 7 Internal - G.I/G.U.<br>\nChapter 8 Environmental<br>\nChapter 9 Evacuation<br>\nChapter 10 Skeletal<br>\nChapter 11 First-Aid Items</p>\n</div>",
+            "price": 28,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/WFACover_1.jpg",
+            "category_slugs": [
+                "books"
+            ],
+            "variants": [],
+            "original_url": "/product/wfa-text"
+        },
+        {
+            "slug": "wfr-text-2012",
+            "title": "WMO WFR/WEMT Text - 2020 edition",
+            "excerpt": "WMO WFR/WEMT Text - 2020 edition Author: Carl Weil / Wilderness Medicine Outfitters Master Fellow of Academy of Wilderness Medicine 158 pages Written from over 40 years foundation of innovative improv...",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>WMO WFR/WEMT Text - 2020 edition<br>\nAuthor: Carl Weil / Wilderness Medicine Outfitters<br>\nMaster Fellow of Academy of Wilderness Medicine<br>\n158 pages</p>\n<p>Written from over 40 years foundation of innovative improvisational medical and trauma care. Over a dozen contributors fill this aggressive but terse book designed to help those far from help in all aspects improvisational to remote care whether it is from a natural disaster or terrorist destruction. This 145 page book is designed to be used in conjunction with the companion smaller Back country Care book by the same author. These books contain the information used  for advanced care by Wilderness EMTs. The WMO distance learning 48 hr class uses these as well as the WMO WFR/WEMT 76 hr course. One should not expect to learn all of the necessary WEMT knowledge just by reading these books.</p>\n</div>",
+            "price": 35,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/WFRTextCover.jpg",
+            "category_slugs": [
+                "books"
+            ],
+            "variants": [],
+            "original_url": "/product/wfr-text-2012"
+        },
+        {
+            "slug": "worlds-best-anatomical-charts",
+            "title": "World's Best Anatomical Charts",
+            "excerpt": "World's Best Anatomical Charts, ACC",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>World's Best Anatomical Charts, ACC</p>\n</div>",
+            "price": 35,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/AnatomyPathology.jpg",
+            "category_slugs": [
+                "books"
+            ],
+            "variants": [],
+            "original_url": "/product/worlds-best-anatomical-charts"
+        },
+        {
+            "slug": "wilderness-medicine-beyond-first-aid",
+            "title": "Wilderness Medicine, Beyond First Aid, 6th Ed",
+            "excerpt": "Wilderness Medicine, Beyond First Aid, 6th Ed (2012) By William W. Forgey, M.D. This illustrated text is essential reading for anyone from trip leaders, guides, and search and rescue groups to EMTs, p...",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>Wilderness Medicine, Beyond First Aid, 6th Ed (2012)<br>\nBy William W. Forgey, M.D.</p>\n<p>This illustrated text is essential reading for anyone from trip leaders, guides, and search and rescue groups to EMTs, paramedics, and physicians who must provide immediate care when access to a medical facility is difficult or impossible. Learn how to survey, assess, and stabilize the victim and the medical situation, what questions to ask to gain necessary vital information, how to manage physical symptoms as well as care for wounds and orthopedic injuries and much more.</p>\n<p>You and your group are on the adventure of a lifetime, far from civilization, surrounded by wilderness. Someone gets hurt or sick. What do you do? With Dr. William Forgey's comprehensive Wilderness Medicine: Beyond First Aid in hand, you can recognize, assess, and treat many kinds of medical emergencies. This illustrated text is essential reading for anyone from trip leaders, guides, and search and rescue groups to EMTs, paramedics, and physicians who must provide immediate care when access to a medical facility is difficult or impossible. Learn how to survey, assess, and stabilize the victim and the medical situation, what questions to ask to gain necessary vital information, how to manage physical symptoms as well as care for wounds and orthopedic injuries and much more. (5 1/2' x 8 1/2', 288 pages, charts, illustrations)</p>\n</div>",
+            "price": 16.95,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/Forgey6th.jpg",
+            "category_slugs": [
+                "books"
+            ],
+            "variants": [],
+            "original_url": "/product/wilderness-medicine-beyond-first-aid"
+        },
+        {
+            "slug": "wilderness-medical-society-protocol",
+            "title": "Wilderness Medical Society Protocol",
+            "excerpt": "Wilderness Medical Society Protocol Print copies are no longer made - now on line only We have 2 previous editions to chose from until sold 10-2012 - ONLY 5 copies left! The earlier rare one contains...",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>Wilderness Medical Society Protocol<br>\nPrint copies are no longer made - now on line only<br>\nWe have 2 previous editions to chose from until sold<br>\n10-2012 - ONLY 5 copies left!</p>\n<p>The earlier rare one contains the 1995 Wilderness Prehospital Emergency Care Curriculum<br>\ntell us which one you want ---  earlier printed by ICS --<br>\nlater by Globe Pequot [the last publisher]<br>\nPhoto is of last edition now sold out</p>\n</div>",
+            "price": 15,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/WMS-PracticeGuidelines.jpg",
+            "category_slugs": [
+                "books"
+            ],
+            "variants": [],
+            "original_url": "/product/wilderness-medical-society-protocol"
+        },
+        {
+            "slug": "surviving-wilderness-emergency",
+            "title": "Surviving a Wilderness Emergency",
+            "excerpt": "Surviving a Wilderness Emergency By Peter Kummerfeldt",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>Surviving a Wilderness Emergency<br>\nBy Peter Kummerfeldt</p>\n</div>",
+            "price": 20,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/survivalskills.jpg",
+            "category_slugs": [
+                "books"
+            ],
+            "variants": [],
+            "original_url": "/product/surviving-wilderness-emergency"
+        },
+        {
+            "slug": "summit-strategies",
+            "title": "Summit Strategies",
+            "excerpt": "[autographed while supply lasts] Summit Strategies is an excellent read for aspiring outdoor guides and for climbers and adventurers of all levels and abilities. This book offers a combination of adre...",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>[autographed while supply lasts]</p>\n<p>Summit Strategies is an excellent read for aspiring outdoor guides and for climbers and adventurers of all levels and abilities. <br>\nThis book offers a combination of adrenaline-raising adventure tales and personal motivation strategies from a man who has led over 30 Himalayan expeditions.<br>\nRecommended by his friend Carl and many well known mountaineers Dick Bass, Glen Porzak, etc.</p>\n</div>",
+            "price": 10,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/SummitStrategies.jpg",
+            "category_slugs": [
+                "books"
+            ],
+            "variants": [],
+            "original_url": "/product/summit-strategies"
+        },
+        {
+            "slug": "special-forces-medical-handbook-win",
+            "title": "Special Forces Medical Handbook (WIN)",
+            "excerpt": "Special Forces Medical Handbook on CD-ROM for Windows SPECIAL OPERATIONS FORCES MEDICAL HANDBOOK - Electronic Editions We have the last CD copies of this, no longer available to the public, current US...",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>Special Forces Medical Handbook on CD-ROM for Windows</p>\n<p><strong>SPECIAL OPERATIONS FORCES MEDICAL HANDBOOK - Electronic Editions</strong><br>\nWe have the last CD copies of this, no longer available to the public, current USA all branches military<br>\n$39 while they last -- a unique opportunity to own the latest and rarest advanced electronic book</p>\n<p>available in 2 formats <strong>tell us which one you want:</strong></p>\n<p> PDA on CD-ROM Windows95/98/ME/NT/2000 and MacOS only</p>\n</div>",
+            "price": 39,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/SpecForcesMedHandbookCD.jpg",
+            "category_slugs": [
+                "books"
+            ],
+            "variants": [],
+            "original_url": "/product/special-forces-medical-handbook-win"
+        },
+        {
+            "slug": "special-forces-medical-handbook-pda",
+            "title": "Special Forces Medical Handbook (PDA)",
+            "excerpt": "Special Forces Medical Handbook on CD for PDA (PalmOS ) only SPECIAL OPERATIONS FORCES MEDICAL HANDBOOK - Electronic Editions We have the last CD copies of this, no longer available to the public, cur...",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>Special Forces Medical Handbook on CD for PDA<br>\n(PalmOS ) only</p>\n<p><strong>SPECIAL OPERATIONS FORCES MEDICAL HANDBOOK - Electronic Editions</strong><br>\nWe have the last CD copies of this, no longer available to the public, current USA all branches military<br>\n$39 while they last -- a unique opportunity to own the latest and rarest advanced electronic book</p>\n</div>",
+            "price": 39,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/SpecialOperationsBook.jpg",
+            "category_slugs": [
+                "books"
+            ],
+            "variants": [],
+            "original_url": "/product/special-forces-medical-handbook-pda"
+        },
+        {
+            "slug": "skills-survivor-dvd",
+            "title": "Skills of the Survivor (DVD)",
+            "excerpt": "Skills of the Survivor (DVD) By Peter Kummerfeldt",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>Skills of the Survivor (DVD)<br>\nBy Peter Kummerfeldt</p>\n</div>",
+            "price": 15,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/survivalskillsDVD.jpg",
+            "category_slugs": [
+                "books"
+            ],
+            "variants": [],
+            "original_url": "/product/skills-survivor-dvd"
+        },
+        {
+            "slug": "medicine-mountaineering-6th-edition",
+            "title": "Medicine for Mountaineering 6th edition",
+            "excerpt": "Medicine for Mountaineering 6th Edition by James Wilkerson The best-selling backcountry medical guide of its kind * Featuring new chapters on avalanche injuries, drowning, eye disorders, medical evacu...",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>Medicine for Mountaineering<br>\n6th Edition<br>\nby James Wilkerson</p>\n<p>The best-selling backcountry medical guide of its kind<br>\n* Featuring new chapters on avalanche injuries, drowning, eye disorders, medical evacuations, and lightning<br>\n* Provides expert information on prevention, diagnosis, and treatment, plus medications, medical kits, and legal and ethical considerations</p>\n</div>",
+            "price": 28,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/MedicineForMountaineering.jpg",
+            "category_slugs": [
+                "books"
+            ],
+            "variants": [],
+            "original_url": "/product/medicine-mountaineering-6th-edition"
+        },
+        {
+            "slug": "medicinal-plants-mountain-west",
+            "title": "Medicinal Plants of the Mountain West",
+            "excerpt": "Medicinal Plants of the Mountain West, 2003, Moore The best medicinal plant book for the Rockies newly updated and expanded $35 call foravailability",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>Medicinal Plants of the Mountain West, 2003, Moore<br>\nThe best medicinal plant book for the Rockies<br>\nnewly updated and expanded </p>\n<p>$35 call foravailability</p>\n</div>",
+            "price": 23,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/MedPlantMtnWest.gif",
+            "category_slugs": [
+                "books"
+            ],
+            "variants": [],
+            "original_url": "/product/medicinal-plants-mountain-west"
+        },
+        {
+            "slug": "medicinal-plants-desert-and-canyon-west",
+            "title": "Medicinal Plants of the Desert and Canyon West",
+            "excerpt": "IF in stock $30 80 plant types are discussed, with details of identification, habitat, collecting, preparation, and medicinal uses. Line illustrations for all plants, and 8 pages of color. Illustratio...",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>IF in stock  $30</p>\n<p> 80 plant types are discussed, with details of identification, habitat, collecting, preparation, and medicinal uses. Line illustrations for all plants, and 8 pages of color. Illustrations by Mimi Kamp and Nora Ryerson.<br>\n212 pp. ISBN 0-89013-182-1<br>\n\"There are few (if any) herbalists in the U.S. as much respected by their peers as Michael Moore...whether your interest is passing or professional, you will want a copy of this book.\"<br>\n(Steven Foster, BOTANICAL AND HERB REVIEWS)<br>\n\"...Moore has published a book with the finest format I've ever seen in an herbal.\"<br>\nPaul Bergner, MEDICAL HERBALISM)<br>\n\"I have often consulted the author's previous work, and I expect to be a frequent reader of this new volume.<br>\n(Andrew Weil, from his introduction)</p>\n</div>",
+            "price": 25,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/MedPlantsDesert.gif",
+            "category_slugs": [
+                "books"
+            ],
+            "variants": [],
+            "original_url": "/product/medicinal-plants-desert-and-canyon-west"
+        },
+        {
+            "slug": "hypothermia-and-frostbite-2nd-ed",
+            "title": "Hypothermia and Frostbite, 2nd ed.",
+            "excerpt": "Hypothermia and Frostbite Edition 2006 by Wilkerson This compact, comprehensive book covers the causes and effects of hypothermia and other cold injuries, and tells how to prevent, recognize, and trea...",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>Hypothermia and Frostbite<br>\nEdition 2006<br>\nby Wilkerson</p>\n<p>This compact, comprehensive book covers the causes and effects of hypothermia and other cold injuries, and tells how to prevent, recognize, and treat them. The new second edition includes expanded coverage of how the body loses heat and the latest rewarming techniques such as thermal wraps. There are new chapters on cold water drowning and covering additional cold injuries from Raynaud's phenomenon to cold-induced asthma. Other new chapters present strategies for cold weather survival, plus safe practices for working on the ice and ice water escape and rescue techniques.</p>\n</div>",
+            "price": 17,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/HypothermiaFrostbite.jpg",
+            "category_slugs": [
+                "books"
+            ],
+            "variants": [],
+            "original_url": "/product/hypothermia-and-frostbite-2nd-ed"
+        },
+        {
+            "slug": "going-higher",
+            "title": "Going Higher",
+            "excerpt": "Going Higher, 5th Edition by Houston [WMO's choice for best altitude book] · Cutting-edge information on how to prevent, diagnose, and treat altitude illness and hypoxia in everyday life · Interweaves...",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>Going Higher, 5th Edition by Houston<br>\n[WMO's choice for best altitude book]</p>\n<p>· Cutting-edge information on how to prevent, diagnose, and treat altitude illness and hypoxia in everyday life<br>\n· Interweaves fascinating research discoveries with dramatic first-person accounts<br>\n· Authored by a celebrated mountaineer and physician who pioneered research in the field</p>\n<p>From the time of his historic expedition to Nanda Devi in the high Himalaya, Charles Houston, M.D., has been fascinated by the effects of altitude on the human body. Why do people get sick in the mountains? What are the symptoms of hypoxia-lack of sufficient oxygen-that also occurs in everyday life, sometimes chronically due to disease? How can we decrease the incidence of illness and death?</p>\n<p>This substantially revised edition incorporates new research of the last 10 years. Houston joins forces with an educator and a medical writer in a text made even more accessible for the average reader while retaining the depth of material of particular use to the medical community. It includes new chapters on vision and the eye at altitude, chronic and subacute altitude illness, and the limits to work at altitude (with implications for athletic training). It presents current information on genetics and gender differences and more on flight and space travel, on understanding and treating sea-level hypoxic illnesses, and on who can (or should not) go to high altitude, and much more. With an expanded glossary of terms.</p>\n</div>",
+            "price": 21,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/GoingHigher.jpg",
+            "category_slugs": [
+                "books"
+            ],
+            "variants": [],
+            "original_url": "/product/going-higher"
+        },
+        {
+            "slug": "ditch-medicine",
+            "title": "Ditch Medicine",
+            "excerpt": "Ditch Medicine Battlefield photos and Techniques by Coffee SOLD OUT",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>Ditch Medicine<br>\nBattlefield photos and Techniques<br>\nby Coffee SOLD OUT</p>\n</div>",
+            "price": 23,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/DitchMedicine.jpg",
+            "category_slugs": [
+                "books"
+            ],
+            "variants": [],
+            "original_url": "/product/ditch-medicine"
+        },
+        {
+            "slug": "altitude-illness-prevention-and-treatment",
+            "title": "Altitude Illness, Prevention and Treatment",
+            "excerpt": "Altitude Illness, Prevention and Treatment recognizing and treating the symptoms of acute mountain sickness, including high altitude pulmonary and cerebral edemas. Suited for both novice and seasoned...",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>Altitude Illness, Prevention and Treatment<br>\nrecognizing and treating the symptoms of acute mountain sickness, including high altitude pulmonary and cerebral edemas. Suited for both novice and seasoned hikers, climbers, trekkers, and skiers, Altitude Illness, nd Edition, also includes an updated examination of how altitude interacts with certain drugs, a new section on using the web to find more information about altitude illness</p>\n</div>",
+            "price": 9,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/AltitudeIllness.jpg",
+            "category_slugs": [
+                "books"
+            ],
+            "variants": [],
+            "original_url": "/product/altitude-illness-prevention-and-treatment"
+        },
+        {
+            "slug": "wmo-advanced-bare-bones-kit",
+            "title": "WMO Advanced Bare Bones Kit",
+            "excerpt": "WMO Advanced BARE BONES KIT - A \"BEST BUY\" $75 1 - Roll 1 1/2\" tape 2 - Tincture Benzoin caps 3 - Triple antibiotic ointment packs 3 - Antiseptic wipes 1 - Sawyer Extractor 1 each: Universal foam alum...",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>WMO Advanced BARE BONES KIT - A \"BEST BUY\" $75<br>\n1 - Roll 1 1/2\" tape<br>\n2 - Tincture Benzoin caps<br>\n3 - Triple antibiotic ointment packs<br>\n3 - Antiseptic wipes<br>\n1 - Sawyer Extractor<br>\n1 each:<br>\n   Universal foam aluminum Splint<br>\n   WMO Large Printed triangle Bandage or mckesson triangle depending on availability<br>\n   WMO Large Tyvek triangle Bandage<br>\n1 - #11 Scalpel Blade<br>\n1 - 5\" x 9\" sterile dressing<br>\n2 - 4\" x 4\" sterile dressing<br>\n1 - TEFLA sterile dressing<br>\n1 - Cera lite rehydrate packet<br>\n1  -  Two oral airways<br>\n1  - Cinch Tight by H&amp;H in place of older \"blood stopper\" shown<br>\n1 -  Rescue breathing shield<br>\n1-  Navy dry bag wound kit<br>\n </p>\n</div>",
+            "price": 57,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/WMO-BareBones.jpg",
+            "category_slugs": [
+                "medical-kit"
+            ],
+            "variants": [],
+            "original_url": "/product/wmo-advanced-bare-bones-kit"
+        },
+        {
+            "slug": "wmo-wound-kit-medium-12",
+            "title": "WMO Wound Kit - medium  $12",
+            "excerpt": "WMO WOUND KIT - medium $12 1 Op site Dressing 1 finger SAM splint wound protector 1 5 pack of steri strips 3 -antiseptic wipe 1 tinture of benzoin 1 tri antibiotic pack 1 200FT Waterproof Bag NOTE NEW...",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>WMO WOUND KIT - medium $12<br>\n1   Op site Dressing<br>\n1   finger SAM splint wound protector<br>\n1   5 pack of steri strips<br>\n3   -antiseptic wipe<br>\n1   tinture of benzoin<br>\n1   tri antibiotic pack<br>\n1   200FT Waterproof Bag</p>\n<p>NOTE NEW PRICE 2023 </p>\n</div>",
+            "price": 7,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/WMO-WoundKit_0.jpg",
+            "category_slugs": [
+                "medical-kit"
+            ],
+            "variants": [],
+            "original_url": "/product/wmo-wound-kit-medium-12"
+        },
+        {
+            "slug": "wmo-blister-doc",
+            "title": "WMO Blister Doc",
+            "excerpt": "WMO Blister Doc 3 - Spenco® 2nd Skin® Dressings 2 - Moleskin 2 - Spenco® Adhesive Knits 1 - bottle New Skin liquid bandage 2 - commercial blister pad [type varies with time] 2 - ENGO patches 6 - Antis...",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>WMO Blister Doc<br>\n\t3 - Spenco® 2nd Skin® Dressings<br>\n\t2 - Moleskin<br>\n\t2 - Spenco® Adhesive Knits<br>\n\t1 - bottle New Skin liquid bandage<br>\n\t2 - commercial blister pad [type varies with time]<br>\n\t2 - ENGO patches<br>\n\t6 - Antiseptic wipes<br>\n\t3 - Tincture of Benzoin cap<br>\n\t3 - Triple Antibiotics ointment packet</p>\n</div>",
+            "price": 30,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/WMO-BlisterDoc.jpg",
+            "category_slugs": [
+                "medical-kit"
+            ],
+            "variants": [],
+            "original_url": "/product/wmo-blister-doc"
+        },
+        {
+            "slug": "wmo-suggested-kit-175",
+            "title": "WMO Suggested Kit  $175",
+            "excerpt": "WMO Suggested Kit ($250 value) 1 Large Cordura 5x8x14 multi-pocket case with pull out day hike kit case 1 advanced bare bones Kit 1 Blister Doctor Kit 2 Wound Kits NOTE NEW PRICE2023 $175",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>WMO Suggested Kit<br>\n($250 value)<br>\n1   Large Cordura 5x8x14 multi-pocket case with pull out day hike kit case<br>\n1   advanced bare bones Kit<br>\n1   Blister Doctor Kit<br>\n2   Wound Kits</p>\n<p>NOTE NEW PRICE2023  $175 </p>\n</div>",
+            "price": 125,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/default_images/book_uncertain_times.jpg",
+            "category_slugs": [
+                "medical-kit"
+            ],
+            "variants": [],
+            "original_url": "/product/wmo-suggested-kit-175"
+        },
+        {
+            "slug": "wmo-advanced-rescue-pack-325",
+            "title": "WMO Advanced Rescue Pack $325",
+            "excerpt": "WMO ADVANCED RESCUE PACK $325 75+ unique items, no bandaids, includes: Advanced Bare Bones kit [30+- items] High grade CPR mask 2nd Sam splint XL backpack stethoscope Heavy duty space blanket 2 wound...",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>WMO ADVANCED RESCUE PACK $325<br>\n75+ unique items, no bandaids, includes:<br>\nAdvanced Bare Bones kit [30+- items]<br>\nHigh grade CPR mask<br>\n2nd Sam splint XL<br>\nbackpack stethoscope<br>\nHeavy duty space blanket<br>\n2 wound kits each containing:<br>\n 1pk 5 steri strips<br>\n 1PAD - 4X4<br>\n 1 - dual antibody packet<br>\n 3 - bzk-wipes<br>\n 1 - finger Sam WOUNDPROTECTOR<br>\n 1 - Tincture of Benzoin<br>\n 1 - Opsite breathable membrane dressing<br>\n  packed in 200’ navy tested dry bag<br>\nBag Valve Mask unit<br>\nRe usable Heat pack<br>\n1 - advanced airway #4 LMA or IGEL<br>\nPacked in 1 military combat medic large 3 zippered<br>\ncompartment pack - holds these contents and more</p>\n<p>notepriceicrease 2023 $325</p>\n</div>",
+            "price": 227,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/advrescuekit.jpg",
+            "category_slugs": [
+                "medical-kit"
+            ],
+            "variants": [],
+            "original_url": "/product/wmo-advanced-rescue-pack-325"
+        },
+        {
+            "slug": "wmo-basic-first-aid-kit-25",
+            "title": "WMO Basic First aid kit $25",
+            "excerpt": "WMO Basic First aid kit (Optimist) $25 2023 current price 6 - L nitril gloves 4\"x4\" gauze pads dressings 3 - Antiseptic wipes 1 - Roll athletic 1\" tape 2 - Dual antibiotic oint.pks 1 - High quality sp...",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>WMO Basic First aid kit (Optimist)  $25 2023 current price<br>\n6 - L nitril gloves<br>\n4\"x4\" gauze pads dressings<br>\n3 - Antiseptic wipes<br>\n1 - Roll athletic 1\" tape<br>\n2 - Dual antibiotic oint.pks<br>\n1 - High quality splinter grabber<br>\n1 - CPR shield with valve<br>\n2 - lrg safety pins<br>\n3 - Large adhesive strips<br>\n1 - Triangle Bandage</p>\n<p>note items may vary in manufacture from photo</p>\n</div>",
+            "price": 15,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/WMO-BasicFirstAidKit.jpg",
+            "category_slugs": [
+                "medical-kit"
+            ],
+            "variants": [],
+            "original_url": "/product/wmo-basic-first-aid-kit-25"
+        },
+        {
+            "slug": "close-out-first-aid-kit",
+            "title": "Close out First Aid Kit",
+            "excerpt": "Close out First Aid Kit Was: $125.00 You Save $55.00",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>Close out First Aid Kit</p>\n<p>Was: $125.00  You Save $55.00</p>\n</div>",
+            "price": 70,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/CloseoutFirstAidKit.jpg",
+            "category_slugs": [
+                "medical-kit"
+            ],
+            "variants": [],
+            "original_url": "/product/close-out-first-aid-kit"
+        },
+        {
+            "slug": "ultra-lite-competent-aid-kit-22oz",
+            "title": "Ultra Lite Competent Aid Kit 22oz.",
+            "excerpt": "Ultra Lite Competent Aid Kit 22oz. 1 Cinch Tight 6 Nitril Gloves 1 CPR Shield 1 Hemostatic Gause 3 4x4s 2 Tefla 1 Roll of 1.5\" Tape 1 WMO Wound Kit 4 MP1 Tabs 1 10CC Syringe 2 Blister Pads 4 Triple An...",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>Ultra Lite Competent Aid Kit 22oz.<br>\n1   Cinch Tight<br>\n6   Nitril Gloves<br>\n1   CPR Shield<br>\n1   Hemostatic Gause<br>\n3   4x4s<br>\n2   Tefla<br>\n1   Roll of 1.5\" Tape<br>\n1   WMO Wound Kit<br>\n4   MP1 Tabs<br>\n1   10CC Syringe<br>\n2   Blister Pads<br>\n4   Triple Antibiotic<br>\n1   Triangle light weight<br>\n1   5x9<br>\n9   BZK Wipes<br>\n1   Tweezers<br>\n2   Safety Pins<br>\n1   Oral Pharyngeal<br>\n1   SAM Splint clone<br>\n1   freezer 1 gallon bag<br>\n1   Lightweight Stethoscope</p>\n<p>WMO strong suggests  our more options, heaver weight kits;   bare bones or XL blue  zippered</p>\n</div>",
+            "price": 79,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/UltraLight.jpg",
+            "category_slugs": [
+                "medical-kit"
+            ],
+            "variants": [],
+            "original_url": "/product/ultra-lite-competent-aid-kit-22oz"
+        },
+        {
+            "slug": "wmo-wound-kit-large",
+            "title": "WMO Wound Kit - large",
+            "excerpt": "WMO WOUND KIT - large 1 Opsite Dressing 1 finger SAM splint 1 5 pack of steri strips 1 1-antiseptic wipe 1 tinture of benzoin 1 tri antibiotic pack 1 200FT Waterproof Bag",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>WMO WOUND KIT - large<br>\n\t1  Opsite Dressing<br>\n\t1  finger SAM splint<br>\n\t1  5 pack of steri strips<br>\n\t1  1-antiseptic wipe<br>\n\t1  tinture of benzoin<br>\n\t1  tri antibiotic pack<br>\n\t1  200FT Waterproof Bag</p>\n</div>",
+            "price": 9,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/WMO-WoundKit.jpg",
+            "category_slugs": [
+                "medical-kit"
+            ],
+            "variants": [],
+            "original_url": "/product/wmo-wound-kit-large"
+        },
+        {
+            "slug": "wmo-blister-one-shot-kit",
+            "title": "WMO Blister One Shot Kit",
+            "excerpt": "WMO Blister One Shot 2 - antibiotic ointment packet 2 - Antiseptic Wipe 1 - Spenco® 2nd Skin® Dressings 1 - Mole Skin 1 - Spenco® Adhesive Knits 1 - ENGO 1 - packet New Skin liquid bandage 1 - tinctur...",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>WMO Blister One Shot<br>\n\t2 - antibiotic ointment packet<br>\n\t2 - Antiseptic Wipe<br>\n\t1 - Spenco® 2nd Skin® Dressings<br>\n\t1 - Mole Skin<br>\n\t1 - Spenco® Adhesive Knits<br>\n\t1 - ENGO<br>\n\t1 - packet New Skin liquid bandage<br>\n\t1 - tincture Benzoin Capsule<br>\n\t1 - blister patch</p>\n</div>",
+            "price": 8,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/WMO-BlisterOneShot.jpg",
+            "category_slugs": [
+                "medical-kit"
+            ],
+            "variants": [],
+            "original_url": "/product/wmo-blister-one-shot-kit"
+        },
+        {
+            "slug": "wmo-trauma-kit-note-price-increases-or-out-stock-possible",
+            "title": "WMO Trauma Kit NOTE PRICE INCREASES OR  OUT OF STOCK POSSIBLE",
+            "excerpt": "WMO Trauma Kit NOTE PRICE INCREASES OR OUT OF STOCK POSSIBLE - Cinch tight - Hemostatic combat gauze - Compressed gauze - Nitril gloves - Zip heavy plastic bag",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>WMO Trauma Kit  NOTE PRICE INCREASES OR  OUT OF STOCK POSSIBLE <br>\n- Cinch tight<br>\n- Hemostatic combat gauze<br>\n- Compressed gauze<br>\n- Nitril gloves<br>\n- Zip heavy plastic bag</p>\n</div>",
+            "price": 57,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/default_images/book_uncertain_times.jpg",
+            "category_slugs": [
+                "medical-kit"
+            ],
+            "variants": [],
+            "original_url": "/product/wmo-trauma-kit-note-price-increases-or-out-stock-possible"
+        },
+        {
+            "slug": "hvy-trauma-kit",
+            "title": "WMO Medic Trauma Kit",
+            "excerpt": "WMO Medic trauma kit Contents 1 - hemostatic gauze 1 - compression bandage 2 - heavily compressed gauze rolls 1 - large area [chest or leg] wound seal 1 - lung puncture valve [bolin new version] 1 - t...",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>WMO Medic trauma kit</p>\n<p>Contents<br>\n\t1 - hemostatic gauze<br>\n\t1 - compression bandage<br>\n\t2 - heavily compressed gauze rolls<br>\n\t1 - large area [chest or leg] wound seal<br>\n\t1 - lung puncture valve [bolin new version]<br>\n\t1 - tourniquet</p>\n<p>Available with case or without case:</p>\n<p>Case colors will vary from black to military patterns</p>\n<p>1 - cordura style med kit case</p>\n</div>",
+            "price": 93,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/HvyTraumaKit2.jpg",
+            "category_slugs": [
+                "medical-kit"
+            ],
+            "variants": [
+                {
+                    "label": "Heavy Trauma Kit w/Case",
+                    "price": 107
+                },
+                {
+                    "label": "Heavy Trauma Kit - no case",
+                    "price": 93
+                }
+            ],
+            "original_url": "/product/hvy-trauma-kit"
+        },
+        {
+            "slug": "wmo-comprehensive-dental-kit",
+            "title": "WMO Comprehensive Dental Kit",
+            "excerpt": "WMO Comprehensive Dental Kit 50 pieces Mirror Explorer Dental Floss Dental Picks Irrigation Tips 2 styles 2 Syringe - 2 needles Chlorine Dioxide Tablets Cotton Roll Packs Gauze Cavity/Filling Replacem...",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>WMO Comprehensive Dental Kit<br>\n\t50 pieces<br>\n\tMirror<br>\n\tExplorer<br>\n\tDental Floss<br>\n\tDental Picks<br>\n\tIrrigation Tips 2 styles<br>\n\t2 Syringe - 2 needles<br>\n\tChlorine Dioxide Tablets<br>\n\tCotton Roll Packs<br>\n\tGauze<br>\n\tCavity/Filling Replacement<br>\n\tCrown/Cap cement<br>\n\tMixing Tool<br>\n\tnitril gloves<br>\n\tkelley hemostat<br>\n\tdental wax<br>\n\tOil of clove/Eugenol-tooth pain reliever<br>\n\tRincinol-gum pain reliever<br>\n\troot cancel file and brochettes<br>\n\tscapel blade</p>\n</div>",
+            "price": 67,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/default_images/book_uncertain_times.jpg",
+            "category_slugs": [
+                "medical-kit"
+            ],
+            "variants": [],
+            "original_url": "/product/wmo-comprehensive-dental-kit"
+        },
+        {
+            "slug": "advanced-rescue-case-lumbar",
+            "title": "Advanced Rescue case - Lumbar",
+            "excerpt": "Advanced Rescue case - Lumbar out of stock replaced with Military M3 bag 34$ follow instructions to buy as special purchase",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>Advanced Rescue case - Lumbar out of stock<br>\nreplaced with Military M3 bag 34$ follow instructions to buy as special purchase</p>\n</div>",
+            "price": 29,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/AdvancedRescueCase.jpg",
+            "category_slugs": [
+                "medical-kit"
+            ],
+            "variants": [],
+            "original_url": "/product/advanced-rescue-case-lumbar"
+        },
+        {
+            "slug": "advanced-first-aid-kit-case-only",
+            "title": "Advanced first aid kit, Case only",
+            "excerpt": "Advanced First Aid kit - case only. We have just the case we use for our Advanced First Aid",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>Advanced First Aid kit - case only.</p>\n<p>We have just the case we use for our Advanced First Aid</p>\n</div>",
+            "price": 23,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/CloseoutAdvFirstAidKit_0.jpg",
+            "category_slugs": [
+                "medical-kit"
+            ],
+            "variants": [],
+            "original_url": "/product/advanced-first-aid-kit-case-only"
+        },
+        {
+            "slug": "first-aid-case-nylon-medium",
+            "title": "First Aid Case - nylon - medium",
+            "excerpt": "First Aid Case - nylon - medium",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>First Aid Case - nylon - medium</p>\n</div>",
+            "price": 12,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/FirstAidCase-med.jpg",
+            "category_slugs": [
+                "medical-kit"
+            ],
+            "variants": [],
+            "original_url": "/product/first-aid-case-nylon-medium"
+        },
+        {
+            "slug": "first-aid-case-nylon-small",
+            "title": "First Aid Case - nylon - small",
+            "excerpt": "First Aid Case - nylon - small",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>First Aid Case - nylon - small</p>\n</div>",
+            "price": 8,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/FirstAidCase-small.jpg",
+            "category_slugs": [
+                "medical-kit"
+            ],
+            "variants": [],
+            "original_url": "/product/first-aid-case-nylon-small"
+        },
+        {
+            "slug": "close-out-advanced-first-aid-kit",
+            "title": "Close out Advanced First Aid Kit",
+            "excerpt": "Close out Advanced First Aid Kit Was: $175.00 You Save $75.00",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>Close out Advanced First Aid Kit<br>\n\tWas: $175.00  You Save $75.00</p>\n</div>",
+            "price": 100,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/CloseoutAdvFirstAidKit.jpg",
+            "category_slugs": [
+                "medical-kit"
+            ],
+            "variants": [],
+            "original_url": "/product/close-out-advanced-first-aid-kit"
+        },
+        {
+            "slug": "usmc-heavy-trauma-kit",
+            "title": "USMC Heavy Trauma Kit",
+            "excerpt": "USMC Heavy Trauma Kit limited numbers available packed in simple plastic bag 1 EA QuikClot 2 EA \"H-Bandage\" just the best compression bandage made 2 EA Pri-Med Bandage 2 EA TK4 -Tourni-Kwik",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>USMC<br>\nHeavy Trauma Kit<br>\nlimited numbers available<br>\npacked in simple plastic bag<br>\n1 EA QuikClot<br>\n2 EA \"H-Bandage\" just the best compression bandage made<br>\n2 EA Pri-Med Bandage<br>\n2 EA  TK4 -Tourni-Kwik</p>\n</div>",
+            "price": 48,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/USMCHeavyTraumaKit.jpg",
+            "category_slugs": [
+                "medical-kit"
+            ],
+            "variants": [],
+            "original_url": "/product/usmc-heavy-trauma-kit"
+        },
+        {
+            "slug": "usmc-ifak-combat-medical-kit-zippered-freezer-bag",
+            "title": "USMC IFAK Combat Medical Kit in zippered freezer bag",
+            "excerpt": "USMC IFAK VERY LIMITED SUPPLY Inventory Minor First Aid Kit -6545-01-539-2737 10 EA Bandage Adhesive 3/4 X 3\" 1 EA Dressing Burn 4\" X 16\" Exp 04/2012 1 EA Providone Iodine Solution Exp 07/2009 1 EA Mi...",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>USMC IFAK<br>\nVERY LIMITED SUPPLY<br>\nInventory<br>\nMinor First Aid Kit -6545-01-539-2737<br>\n10 EA Bandage Adhesive 3/4 X 3\"<br>\n1 EA Dressing Burn 4\" X 16\" Exp 04/2012<br>\n1 EA Providone Iodine Solution Exp 07/2009<br>\n1 EA  Micropur Prurification Tablet - MK1 Exp 09/2012<br>\n2 EA Bandage Triangular 40 X 40 X 56<br>\n5 EA Bandage Adhesive 2\" X 4\"<br>\n8 EA Bacitracin Antibiotic Ointment Exp 08/2010<br>\n1 EA Combat Medic Tape 2\" X 100\"</p>\n<p>Heavy Trauma Kit<br>\n1 EA QuikClot Exp 09/2012<br>\n2 EA \"H-Bandage\"<br>\n2 EA Pri-Med Bandage<br>\n2 EA  TK4Tourni-Kwik<br><strong>in zippered freezer bag</strong></p>\n</div>",
+            "price": 85,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/USMCIFAKNavyDryKit_0.jpg",
+            "category_slugs": [
+                "medical-kit"
+            ],
+            "variants": [],
+            "original_url": "/product/usmc-ifak-combat-medical-kit-zippered-freezer-bag"
+        },
+        {
+            "slug": "usmc-ifak-combat-medical-kit-navy-dry-bag",
+            "title": "USMC IFAK Combat Medical Kit in Navy Dry Bag",
+            "excerpt": "USMC IFAK FEW LEFT!!!!! Inventory Minor First Aid Kit -6545-01-539-2737 10 EA Bandage Adhesive 3/4 X 3\" 1 EA Dressing Burn 4\" X 16\" Exp 04/2012 1 EA Providone Iodine Solution Exp 07/2009 1 EA Micropur...",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>USMC IFAK<br>\nFEW LEFT!!!!!<br>\nInventory<br>\nMinor First Aid Kit -6545-01-539-2737<br>\n10 EA Bandage Adhesive 3/4 X 3\"<br>\n1 EA Dressing Burn 4\" X 16\" Exp 04/2012<br>\n1 EA Providone Iodine Solution Exp 07/2009<br>\n1 EA  Micropur Prurification Tablet - MK1 Exp 09/2012<br>\n2 EA Bandage Triangular 40 X 40 X 56<br>\n5 EA Bandage Adhesive 2\" X 4\"<br>\n8 EA Bacitracin Antibiotic Ointment Exp 08/2010<br>\n1 EA Combat Medic Tape 2\" X 100\"</p>\n<p>Heavy Trauma Kit<br>\n1 EA QuikClot Exp 09/2012<br>\n2 EA \"H-Bandage\"<br>\n2 EA Pri-Med Bandage<br>\n2 EA  TK4Tourni-Kwik<br>\nin Navy Dry Bag</p>\n</div>",
+            "price": 89,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/USMCIFAKNavyDryKit.jpg",
+            "category_slugs": [
+                "medical-kit"
+            ],
+            "variants": [],
+            "original_url": "/product/usmc-ifak-combat-medical-kit-navy-dry-bag"
+        },
+        {
+            "slug": "usmc-ifak-combat-medical-kit-government-molle-case",
+            "title": "USMC IFAK Combat Medical Kit with government Molle Case",
+            "excerpt": "USMC IFAK VERY LIMITED SUPPLY! Minor First Aid Kit -6545-01-539-2737 10 EA Bandage Adhesive 3/4 X 3\" 1 EA Dressing Burn 4\" X 16\" Exp 04/2012 1 EA Providone Iodine Solution Exp 07/2009 1 EA Micropur Pr...",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>USMC IFAK<br>\n\tVERY LIMITED SUPPLY!<br>\n\tMinor First Aid Kit -6545-01-539-2737<br>\n\t10 EA Bandage Adhesive 3/4 X 3\"<br>\n\t1 EA Dressing Burn 4\" X 16\" Exp 04/2012<br>\n\t1 EA Providone Iodine Solution Exp 07/2009<br>\n\t1 EA  Micropur Prurification Tablet - MK1 Exp 09/2012<br>\n\t2 EA Bandage Triangular 40 X 40 X 56<br>\n\t5 EA Bandage Adhesive 2\" X 4\"<br>\n\t8 EA Bacitracin Antibiotic Ointment Exp 08/2010<br>\n\t1 EA Combat Medic Tape 2\" X 100\"</p>\n<p>Heavy Trauma Kit<br>\n\t1 EA QuikClot Exp 09/2012<br>\n\t2 EA \"H-Bandage\"<br>\n\t2 EA Pri-Med Bandage<br>\n\t2 EA  TK4Tourni-Kwik</p>\n<p><strong>Style of molle case varies</strong></p>\n</div>",
+            "price": 129,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/USMCIFAKMolleKit.jpg",
+            "category_slugs": [
+                "medical-kit"
+            ],
+            "variants": [],
+            "original_url": "/product/usmc-ifak-combat-medical-kit-government-molle-case"
+        },
+        {
+            "slug": "usmc-minor-care-kit-original-plastic-bag",
+            "title": "USMC MINOR CARE KIT in original plastic bag",
+            "excerpt": "USMC IFAK VERY LIMITED SUPPLY! Minor First Aid Kit -6545-01-539-2737 in original plastic bag only 10 EA Bandage Adhesive 3/4 X 3\" 1 EA Dressing Burn 4\" X 16\" Exp 04/2012 1 EA Providone Iodine Solution...",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>USMC IFAK<br>\nVERY LIMITED SUPPLY!</p>\n<p>Minor First Aid Kit -6545-01-539-2737<br>\nin original plastic bag only<br>\n10 EA Bandage Adhesive 3/4 X 3\"<br>\n1 EA Dressing Burn 4\" X 16\" Exp 04/2012<br>\n1 EA Providone Iodine Solution Exp 07/2009<br>\n1 EA  Micropur Prurification Tablet - MK1 Exp 09/2012<br>\n2 EA Bandage Triangular 40 X 40 X 56<br>\n5 EA Bandage Adhesive 2\" X 4\"<br>\n8 EA Bacitracin Antibiotic Ointment Exp 08/2010<br>\n1 EA Combat Medic Tape 2\" X 100\"</p>\n</div>",
+            "price": 40,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/USMCMinorWoundKit.jpg",
+            "category_slugs": [
+                "medical-kit"
+            ],
+            "variants": [],
+            "original_url": "/product/usmc-minor-care-kit-original-plastic-bag"
+        },
+        {
+            "slug": "hand-chainsaw",
+            "title": "Hand Chainsaw",
+            "excerpt": "IMPORTANT ALL PRICES ARE OLD!!!EMAIL OR CALL FOR CURRENT!!!! UST SaberCut Hand Chain Saw. This unique and simplified way to cut through anything is a revolutionary hand-operated chain saw. Cutting in...",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p><strong>IMPORTANT  ALL PRICES ARE OLD!!!EMAIL OR CALL FOR CURRENT!!!!</strong></p>\n<p>UST SaberCut Hand Chain Saw. This unique and simplified way to cut through anything is a revolutionary hand-operated chain saw. Cutting in two directions, this saw makes every stroke count and features self-cleaning teeth to keep debris clear from the cutting area and you easily cutting through whatever needs slicing.</p>\n<p>/vol/JSZA/d7-3prod/public_html/includes/bootstrap.inc</p>\n</div>",
+            "price": 20,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/handchainsaw.jpg",
+            "category_slugs": [
+                "survival-items"
+            ],
+            "variants": [
+                {
+                    "label": "UST Hand Chainsaw - without case",
+                    "price": 20
+                },
+                {
+                    "label": "UST Hand Chainsaw - with case",
+                    "price": 23
+                }
+            ],
+            "original_url": "/product/hand-chainsaw"
+        },
+        {
+            "slug": "nylon-webbing-tubular",
+            "title": "Nylon webbing - tubular",
+            "excerpt": "Nylon webbing- tubular 22 feet of 1\" wide, 4000 lb test Possibly the smallest rescue package [1\"X 5\" coil] you can carry! With your WMO training and practice, make a 6 person or 4 person emergency lit...",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>Nylon webbing- tubular<br>\n\t22 feet of 1\" wide, 4000 lb test</p>\n<p>Possibly the smallest rescue package [1\"X 5\" coil] you can carry!<br>\n\tWith your WMO training and practice, make a 6 person or 4 person emergency litter,<br>\n\tor a 1 or 2 man drag, or an emergency harness.<br>\n\tTie two together for a 40 ft emergency hand safety line.</p>\n</div>",
+            "price": 12,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/webbing.jpg",
+            "category_slugs": [
+                "survival-items"
+            ],
+            "variants": [],
+            "original_url": "/product/nylon-webbing-tubular"
+        },
+        {
+            "slug": "emergency-rescue-knife",
+            "title": "Emergency rescue knife",
+            "excerpt": "Emergency rescue knife: features 1. glass breaker 2. sheep foot recur blade 3. socket set 4. closed end wrench set 5. Oxygen regulator key 6. Rescue Red color 7. Cordera belt case 8. Michael Walker li...",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>Emergency rescue knife:<br>\n\tfeatures<br>\n\t1.   glass breaker<br>\n\t2.   sheep foot recur blade<br>\n\t3.   socket set<br>\n\t4.   closed end wrench set<br>\n\t5.   Oxygen regulator key<br>\n\t6.   Rescue Red color<br>\n\t7.   Cordera belt case<br>\n\t8.   Michael Walker liner blade lock</p>\n<p>Serated blade</p>\n</div>",
+            "price": 35,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/EmerRescueKnife.jpg",
+            "category_slugs": [
+                "survival-items"
+            ],
+            "variants": [],
+            "original_url": "/product/emergency-rescue-knife"
+        },
+        {
+            "slug": "survival-core-wrist-kit",
+            "title": "Survival Core Wrist Kit",
+            "excerpt": "A full SURVIVAL KIT inside a paracord BRACELET. The patented SURVIVAL CORE© concept is what makes the HERO STRAP a viable survival strap. Not only do you get all the standard benefits from the common...",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>A full SURVIVAL KIT inside a paracord BRACELET.</p>\n<p>The patented SURVIVAL CORE© concept is what makes the HERO STRAP a viable survival strap.  Not only do you get all the standard benefits from the common paracord bracelet, but now you can enjoy the peace of mind knowing you also have a full survival system you can rely on.  </p>\n<p>Who Needs a HERO STRAP?<br>\n <br>\nEvery backcountry guide, first responder, hunter, camper, hiker, skier, recreational pilot, mountain biker, boy scout, Soldier, Sailor, Marine &amp; Airmen</p>\n<p>Everything you need to survive mother nature!</p>\n<p>Patented design ensures YOU have the ability to:<br>\n    Start a fire (Signal or Survival)<br>\n    Build a Shelter<br>\n    Tie together tree-branches to make a Lean-to or A-Frame Shelter<br>\n    Fish<br>\n    Snare/Trap Small Game<br>\n    Bandage Wounds<br>\n    Make a Spear<br>\n    Clean Small Game/Fish</p>\n<p>SURVIVAL CORE©  Inventory:<br>\n    Ferro Rod (Fire-Steel)<br>\n    High Quality Razor Knife Blade<br>\n    Fish Hook<br>\n    10ft~30lb Braided Fishing Line<br>\n    2ft Electrical Tape (bandage)<br>\n    4\" of Wax Dipped Jute Twine (1 spark to ignite &amp; a 1\" piece will burn for @ 1 minute)</p>\n<p>Colors available:</p>\n<ul><li>Military two-tone: will be two of various colors: black, cammo, OD, tan</li>\n<li>Military solid: will be one of various colors: black, cammo, OD, tan</li>\n<li>Black &amp; Pink</li>\n<li>Black &amp; Yellow</li>\n<li>Solid pink</li>\n<li>Solid Yellow</li>\n</ul><p>Sizes: Measure your wrist in inches.</p>\n<p>Choose from a color / size option or call for custom colors and sizes ($30 for custom orders).</p>\n</div>",
+            "price": 25,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/black-pink.jpg",
+            "category_slugs": [
+                "survival-items"
+            ],
+            "variants": [
+                {
+                    "label": "Survival Core 5.5inch Black & Pink",
+                    "price": 25
+                },
+                {
+                    "label": "Survival Core 5.5inch Black & Yellow",
+                    "price": 25
+                },
+                {
+                    "label": "Survival Core 5.5inch Military solid",
+                    "price": 25
+                },
+                {
+                    "label": "Survival Core 5.5inch Military two tone",
+                    "price": 25
+                },
+                {
+                    "label": "Survival Core 5.5inch Pink solid",
+                    "price": 25
+                },
+                {
+                    "label": "Survival Core 5.5inch Yellow solid",
+                    "price": 25
+                },
+                {
+                    "label": "Survival Core 7inch Black & Pink",
+                    "price": 25
+                },
+                {
+                    "label": "Survival Core 7inch Black & Yellow",
+                    "price": 25
+                },
+                {
+                    "label": "Survival Core 7inch Military two tone",
+                    "price": 25
+                },
+                {
+                    "label": "Survival Core 7inch Military solid",
+                    "price": 25
+                },
+                {
+                    "label": "Survival Core 7inch Pink solid",
+                    "price": 25
+                },
+                {
+                    "label": "Survival Core 7inch Yellow solid",
+                    "price": 25
+                },
+                {
+                    "label": "Survival Core 8inch Black & Pink",
+                    "price": 25
+                },
+                {
+                    "label": "Survival Core 8inch Black & Yellow",
+                    "price": 25
+                },
+                {
+                    "label": "Survival Core 8inch Military two tone",
+                    "price": 25
+                },
+                {
+                    "label": "Survival Core 8inch Military solid",
+                    "price": 25
+                },
+                {
+                    "label": "Survival Core 8inch Pink solid",
+                    "price": 25
+                },
+                {
+                    "label": "Survival Core 8inch Yellow solid",
+                    "price": 25
+                }
+            ],
+            "original_url": "/product/survival-core-wrist-kit"
+        },
+        {
+            "slug": "all-weather-original-space-blanket",
+            "title": "All-Weather Original Space blanket",
+            "excerpt": "All-Weather Original Space blanket",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>All-Weather Original Space blanket</p>\n</div>",
+            "price": 14,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/AllWeatherBlanket.jpg",
+            "category_slugs": [
+                "survival-items",
+                "individual-items"
+            ],
+            "variants": [],
+            "original_url": "/product/all-weather-original-space-blanket"
+        },
+        {
+            "slug": "compass-liquid-filled-6-hr-luminsent",
+            "title": "Compass-liquid filled 6 hr luminsent",
+            "excerpt": "Compass-liquid filled 6 hr luminsent",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>Compass-liquid filled 6 hr luminsent</p>\n</div>",
+            "price": 3,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/Compass14mmGrAcom.jpg",
+            "category_slugs": [
+                "survival-items"
+            ],
+            "variants": [],
+            "original_url": "/product/compass-liquid-filled-6-hr-luminsent"
+        },
+        {
+            "slug": "ka-bar-3inch-locking-folding-knife",
+            "title": "KA Bar 3inch locking folding knife",
+            "excerpt": "KA Bar 3inch locking folding knife",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>KA Bar 3inch locking folding knife</p>\n</div>",
+            "price": 17,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/ka-bar-foldingknife-sm.jpg",
+            "category_slugs": [
+                "survival-items"
+            ],
+            "variants": [],
+            "original_url": "/product/ka-bar-3inch-locking-folding-knife"
+        },
+        {
+            "slug": "magnesium-firestarter",
+            "title": "Magnesium firestarter",
+            "excerpt": "Magnesium firestarter - large Magnesium firestarter - small",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>Magnesium firestarter - large<br>\nMagnesium firestarter - small</p>\n</div>",
+            "price": 6,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/MagFirestarter-large.jpg",
+            "category_slugs": [
+                "survival-items"
+            ],
+            "variants": [
+                {
+                    "label": "Magnesium firestarter - large",
+                    "price": 8
+                },
+                {
+                    "label": "Magnesium firestarter - small",
+                    "price": 6
+                }
+            ],
+            "original_url": "/product/magnesium-firestarter"
+        },
+        {
+            "slug": "mirror-signal-glass-usaf",
+            "title": "Mirror Signal Glass USAF",
+            "excerpt": "Mirror Signal Glass USAF type has sighting hole with powdered glass covered screen not fake grid like so many on market",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>Mirror Signal Glass USAF type<br>\nhas sighting hole with powdered glass covered screen<br>\nnot fake grid like so many on market</p>\n</div>",
+            "price": 9,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/military_glass_signal_mirror.jpg",
+            "category_slugs": [
+                "survival-items"
+            ],
+            "variants": [],
+            "original_url": "/product/mirror-signal-glass-usaf"
+        },
+        {
+            "slug": "pocket-chain-saw",
+            "title": "Pocket Chain Saw",
+            "excerpt": "Made of high strength, heat-treated steel. Coated for rust resistance. Fits in shirt pocket. 28\" long and weighs 6 oz. 124 Bi-directional teeth. Can be used by one or two persons.",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>Made of high strength, heat-treated steel. Coated for rust resistance. Fits in shirt pocket. 28\" long and weighs 6 oz. 124 Bi-directional teeth. Can be used by one or two persons.</p>\n</div>",
+            "price": 24,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/PocketChainsaw2.jpg",
+            "category_slugs": [
+                "survival-items"
+            ],
+            "variants": [],
+            "original_url": "/product/pocket-chain-saw"
+        },
+        {
+            "slug": "princetontec-pulsar-led",
+            "title": "PrincetonTec Pulsar LED",
+            "excerpt": "PrincetonTec Pulsar LED",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>PrincetonTec Pulsar LED</p>\n</div>",
+            "price": 6,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/PrincetonTecPulsar.jpg",
+            "category_slugs": [
+                "survival-items"
+            ],
+            "variants": [],
+            "original_url": "/product/princetontec-pulsar-led"
+        },
+        {
+            "slug": "princetontec-yukon-led-headlamp",
+            "title": "PrincetonTec Yukon LED Headlamp",
+            "excerpt": "PrincetonTec Yukon LED Headlamp 3 AA batteries USA made",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>PrincetonTec Yukon LED Headlamp<br>\n3 AA batteries USA made</p>\n</div>",
+            "price": 60,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/princeton-yukon.png",
+            "category_slugs": [
+                "survival-items"
+            ],
+            "variants": [],
+            "original_url": "/product/princetontec-yukon-led-headlamp"
+        },
+        {
+            "slug": "spyderco-25-mini-rescue-knife",
+            "title": "Spyderco 2.5\" mini rescue Knife",
+            "excerpt": "Spyderco 2.5\" mini rescue Knife - limited availability",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>Spyderco 2.5\" mini rescue Knife - limited availability</p>\n</div>",
+            "price": 49,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/spyderco-LBKII_M.jpg",
+            "category_slugs": [
+                "survival-items"
+            ],
+            "variants": [],
+            "original_url": "/product/spyderco-25-mini-rescue-knife"
+        },
+        {
+            "slug": "survival-essentials-kit",
+            "title": "Survival / Essentials Kit",
+            "excerpt": "Survival / Essentials Kit If, while giving emergency care, you are stuck on the unexpected night out this kit with the 3 options will give you comfort physically and mentally to know you have more pre...",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>Survival / Essentials Kit</p>\n<p>If, while giving emergency care, you are stuck on the unexpected night out this kit<br>\n\twith the 3 options will give you comfort physically and<br>\n\tmentally to know you have more preparation.</p>\n<p>The kit includes all of the following (click details for more):</p>\n<p>Led light on cord by Princeton Tec<br>\n\tWhistle<br>\n\tSignal Mirror - high grade USAF sighting version<br>\n\tSmall Locking KA bar Pocket Knife<br>\n\tPencil With Duct Tape<br>\n\t12 Feet of 550 Cord<br>\n\t3x5 Card<br>\n\tMagnesium, Flint, and Steel Fire Starter<br>\n\t2 Large Safety Pins<br>\n\tCompass: liquid filled, 6hr luminescent<br>\n\t200FT tested Waterproof Bag<br>\n\t4 - MP1 water purification tablets</p>\n<p>Note:<br>\n\tThe Basic gives you 5 of the accepted 10 outdoor emergency essentials Plus 7 more of the \"non essential essentials\".  By adding the first 3 options for 38$ you have 7 of the 10 essentials and 7 of the nonessentials in a durable handy pouch.  Just add extra food extra water and spare clothing to your pack and you are set for a well prepared outdoors trip.  You are now able to better handle what problems you may encounter.</p>\n<p>\tWe suggest you take a survival class as well as a wilderness medicine class so you can use these tools to their maximum benefit.</p>\n</div>",
+            "price": 35,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/WMOEssentialsKit.jpg",
+            "category_slugs": [
+                "survival-items"
+            ],
+            "variants": [],
+            "original_url": "/product/survival-essentials-kit"
+        },
+        {
+            "slug": "survival-essentials-kit-wbelt-case",
+            "title": "Survival / Essentials Kit w/Belt Case",
+            "excerpt": "Survival / Essentials Kit w/Belt Case The kit includes all of the following: Led light on cord by Princeton Tec Whistle Signal Mirror - high grade USAF sighting version Small KA Bar Locking Pocket Kni...",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>Survival / Essentials Kit w/Belt Case</p>\n<p>The kit includes all of the following:</p>\n<p>Led light on cord by Princeton Tec<br>\n\tWhistle<br>\n\tSignal Mirror - high grade USAF sighting version<br>\n\tSmall KA Bar Locking Pocket Knife<br>\n\tPencil With Duct Tape<br>\n\t12 Feet of 550 Cord<br>\n\t3x5 Card<br>\n\tMagnesium, Flint, and Steel Fire Starter<br>\n\t2 Large Safety Pins<br>\n\tCompass - liguid filled, 6 hr luminescent<br>\n\t200FT Waterproof Bag<br>\n\t4 - MP1 water purification tablets<br>\n\tBelt case - Colorado made</p>\n<p>Note:<br>\n\tThe Basic gives you 5 of the accepted 10 outdoor emergency essentials Plus 7 more of the \"non essential essentials\".  By adding the first 3 options for 38$ you have 7 of the 10 essentials and 7 of the nonessentials in a durable handy pouch.  Just add extra food extra water and spare clothing to your pack and you are set for a well prepared outdoors trip.  You are now able to better handle what problems you may encounter.</p>\n<p>\tWe suggest you take a survival class as well as a wilderness medicine class so you can use these tools to their maximum benefit.</p>\n</div>",
+            "price": 48,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/WMOEssentialsKit_1.jpg",
+            "category_slugs": [
+                "survival-items"
+            ],
+            "variants": [],
+            "original_url": "/product/survival-essentials-kit-wbelt-case"
+        },
+        {
+            "slug": "survival-essentials-kit-wspace-bag",
+            "title": "Survival / Essentials Kit w/Space Bag",
+            "excerpt": "Was: $41.75 You Save: $0.75 Survival / Essentials Kit The kit includes all of the following: Led light on cord by Princeton Tec Whistle Signal Mirror Small Locking Pocket Knife Pencil With Duct Tape 1...",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>Was: $41.75  You Save: $0.75</p>\n<p>Survival / Essentials Kit<br>\n\tThe kit includes all of the following:<br>\n\tLed light on cord by Princeton Tec<br>\n\tWhistle<br>\n\tSignal Mirror<br>\n\tSmall Locking Pocket Knife<br>\n\tPencil With Duct Tape<br>\n\t12 Feet Of 550 Cord<br>\n\t3x5 Card<br>\n\tMagnesium, Flint, and Steel Fire Starter<br>\n\t2 Large Safety Pins<br>\n\tCompass By Brunton<br>\n\t200FT Waterproof Bag<br>\n\t4 - MP1 water purification tablets<br>\n\tAdd on of Space Bag</p>\n<p>Note:<br>\n\tThe Basic gives you 5 of the accepted 10 outdoor emergency essentials Plus 7 more of the \"non essential essentials\".  By adding the first 3 options for 38$ you have 7 of the 10 essentials and 7 of the nonessentials in a durable handy pouch.  Just add extra food extra water and spare clothing to your pack and you are set for a well prepared outdoors trip.  You are now able to better handle what problems you may encounter.</p>\n<p>\tWe suggest you take a survival class as well as a wilderness medicine class so you can use these tools to their maximum benefit.</p>\n</div>",
+            "price": 41,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/WMOEssentialsKit_2.jpg",
+            "category_slugs": [
+                "survival-items"
+            ],
+            "variants": [],
+            "original_url": "/product/survival-essentials-kit-wspace-bag"
+        },
+        {
+            "slug": "survival-essentials-wall-options",
+            "title": "Survival / Essentials w/all options",
+            "excerpt": "Was: $68.75 You save: $3.75 Survival / Essentials Kit The kit includes all of the following: Led light on cord by Princeton Tec replaceable battery Whistle Signal Mirror Small Locking Pocket Knife Pen...",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>Was: $68.75  You save: $3.75</p>\n<p>Survival / Essentials Kit<br>\n\tThe kit includes all of the following:<br>\n\tLed light on cord by Princeton Tec replaceable battery<br>\n\tWhistle<br>\n\tSignal Mirror<br>\n\tSmall Locking Pocket Knife<br>\n\tPencil With Duct Tape<br>\n\t12 Feet Of 550 Cord<br>\n\t3x5 Card<br>\n\tMagnesium, Flint, and Steel Fire Starter<br>\n\t2 Large Safety Pins<br>\n\tliquid luminessent Compass<br>\n\t200FT Waterproof Bag<br>\n\t4 - MP1 water purification tablets<br>\n\tAdded on belt case - Colorado made<br>\n\tAdded on durable emergency  Shelter<br>\n\tWMO Optimist first aid kit</p>\n<p>Note:<br>\n\tThe Basic gives you 5 of the accepted 10 outdoor emergency essentials Plus 7 more of the \"non essential essentials\".  By adding the first 3 options for 38$ you have 7 of the 10 essentials and 7 of the nonessentials in a durable handy pouch.  Just add extra food extra water and spare clothing to your pack and you are set for a well prepared outdoors trip.  You are now able to better handle what problems you may encounter.</p>\n<p>\tWe suggest you take a survival class as well as a wilderness medicine class so you can use these tools to their maximum benefit.</p>\n</div>",
+            "price": 65,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/WMOEssentialsKit_0.jpg",
+            "category_slugs": [
+                "survival-items"
+            ],
+            "variants": [],
+            "original_url": "/product/survival-essentials-wall-options"
+        },
+        {
+            "slug": "survival-bag",
+            "title": "Survival Bag",
+            "excerpt": "The Best Thermal Insulation Survival Sleeping Bag (Bivvy):The Blizzard Survival Bag is a Full-Sized Sleeping Bag in a pack about the size of a video cassette, providing total warmth and shelter - anyw...",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>The Best Thermal Insulation Survival Sleeping Bag (Bivvy):The Blizzard Survival Bag is a Full-Sized Sleeping Bag in a pack about the size of a video cassette, providing total warmth and shelter - anywhere, at any time. Made with Reflexcell, it is the new standard in thermal performance. Reflexcell material blocks heat loss more effectively than any other emergency product. The bag is elasticized to hug the body to ensure positive warmth retention. SPECIFICATIONS: Size (vacuum packed): 8.5 in. X 4 in. X 1.75 in. Volume: 0.9 litres. Weight: 13.3 ounces. Size (unpacked): 2.1 meters. Color: Tactical Olive Drab, Reversible to Civilian Silver for High Visibility and Signaling. FEATURES Top may be closed to form hood. Drawcord with spring toggle. Fits fully clothed large adult. Reusable. PERFORMANCE Warmth: 8 Togs - equal to a medium weight regular sleeping bag. Weather protection: fully waterproof and windproof. Storage: bags may be stored indefinitely, and are not affected by temperature or moisture, either during storage or in use. Portability: the small pack size and light weight make them easy to carry, whether as personal safety and survival equipment, or for rapid deployment in emergencies involving large groups of people. Re-usability: bags can be re-used many times without loss of performance. APPLICATIONS These full sized, triple-cell ReflexCell survival sleeping bags are the chosen standard equipment by the military, emergency services, civil emergency planners, medical authorities and rescue teams. The Blizzard Survival Bag is a revolution in thermal protection for any situation in which people need to be kept warm, or treated immediately for chilling and hypothermia. Applications include everything from military, medical, marine and mountain rescue, to civil evacuations and disasters. Many hikers, climbers, cavers, canoeists, mountain rescue teams, ski mountaineers, adventure racers and others carry the bag as a safety product in case of accidents or other survival situations. Vehicular Travel &amp; Working Outdoors The Blizzard Survival Bag is an excellent piece of personal safety equipment for motorists and workers who may be stranded in remote locations and during severe weather. Planned Bivouacs The Blizzard Survival Bag is the lightest, most compact option for planned bivouacs whilst backpacking, mountaineering, caving, adventure racing etc. The standard issue to Special Operations military personnel worldwide.</p>\n</div>",
+            "price": 37,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/survivalbag.jpg",
+            "category_slugs": [
+                "survival-items"
+            ],
+            "variants": [],
+            "original_url": "/product/survival-bag"
+        },
+        {
+            "slug": "survival-space-blanket",
+            "title": "Survival Space Blanket",
+            "excerpt": "Space Blanket. Sealed seams. The Original.",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>Space Blanket. Sealed seams. The Original.</p>\n</div>",
+            "price": 12.75,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/spaceblanket.jpg",
+            "category_slugs": [
+                "survival-items"
+            ],
+            "variants": [],
+            "original_url": "/product/survival-space-blanket"
+        },
+        {
+            "slug": "wmo-belt-pouch-survival-kit-w-spyder-co-lock-blade-knife",
+            "title": "WMO Belt pouch Survival Kit w/ spyder co lock blade knife",
+            "excerpt": "WMO Belt pouch Survival Kit w/ lock blade knife CALL FOR NEW PRICE 1-1-25 photo does not show spyderco which will be substituted for knife in photo contents of kit: 2 MP1 water purifer tablets 2 aspir...",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>WMO Belt pouch Survival Kit w/ lock blade knife <strong>CALL FOR NEW PRICE 1-1-25</strong><br>\nphoto does not show spyderco which will be substituted for knife in photo</p>\n<p>contents of kit:</p>\n<p>2 MP1 water purifer tablets<br>\n2 aspirin<br>\n2 bandaids<br>\n2 safety pins<br>\n  Spyderco ladybug lock blade knife<br>\ncompass<br>\nwhistle<br>\nflint magnesium steel fire starter<br>\ntweezers and case<br>\nprincton tec pulsar LED light<br>\ngloves<br>\nBZK wipe<br>\ncpr shield</p>\n<p>/vol/JSZA/d7-3prod/public_html/includes/bootstrap.inc</p>\n</div>",
+            "price": 79,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/wmokitwith-kabar_0.jpg",
+            "category_slugs": [
+                "survival-items"
+            ],
+            "variants": [],
+            "original_url": "/product/wmo-belt-pouch-survival-kit-w-spyder-co-lock-blade-knife"
+        },
+        {
+            "slug": "wmo-survival-belt-pouch-wka-bar-lock-blade-knife",
+            "title": "WMO survival belt pouch W/KA bar lock blade knife",
+            "excerpt": "WMO survival belt pouch CALL FOR NEW PRICE 1-1-25 cloth pouch with velcro closure and wide adjustable velcro belt loop contains: 2 aspirin, 2 water purification MP1 tabs, 2 bandids, 2 safety pins, liq...",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>WMO survival belt pouch <strong>CALL FOR NEW PRICE 1-1-25</strong><br>\ncloth pouch with velcro closure and wide adjustable velcro belt loop<br>\ncontains: 2 aspirin, 2 water purification MP1 tabs, 2 bandids, 2 safety pins,<br>\nliquid filled luminescent compass, whistle, flint-magnesium-steel firestarter,<br>\nKA Bar Lockblade knife, gloves, cpr shield, Tweezer, BZK wipe</p>\n<p>/vol/JSZA/d7-3prod/public_html/includes/bootstrap.inc</p>\n</div>",
+            "price": 45,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/wmokitwith-kabar.jpg",
+            "category_slugs": [
+                "survival-items"
+            ],
+            "variants": [],
+            "original_url": "/product/wmo-survival-belt-pouch-wka-bar-lock-blade-knife"
+        },
+        {
+            "slug": "tecnu-poison-ivy-cleaner",
+            "title": "Tecnu Poison Ivy cleaner",
+            "excerpt": "Tecnu Poison Poison Ivy/Oak/Sumac Skin Cleanser, 4 oz. by Eastern Mountain Sports Removes the oil, urushiol (oo-roo-she-all), from poison ivy, oak, and sumac that causes rash and itching. Apply to dry...",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>Tecnu Poison Poison Ivy/Oak/Sumac Skin Cleanser, 4 oz.<br>\nby Eastern Mountain Sports</p>\n<p>Removes the oil, urushiol (oo-roo-she-all), from poison ivy, oak, and sumac that causes rash and itching. Apply to dry skin for two minutes and rinse with cool water or wipe off with a cloth. When used within 2-8 hours after exposure to the plants, Tecnu can remove urushiol oil before rash begins.</p>\n<p>Once the rash has started, washing with Tecnu helps remove any free oil on skin allowing the natural healing process to begin without possible recontamination. Use Tecnu to remove oil from contaminated clothing, shoes, gloves, tools, and pets. Ingredients: deodorized mineral spirits, water, propylene glycol, octylphenoxy-polyethoxyethanol, mixed fatty acid soap, fragrance.</p>\n</div>",
+            "price": 7.5,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/tecnu.jpg",
+            "category_slugs": [
+                "over-the-counter-med-items",
+                "individual-items"
+            ],
+            "variants": [],
+            "original_url": "/product/tecnu-poison-ivy-cleaner"
+        },
+        {
+            "slug": "20-picaridin-sawyer",
+            "title": "20% Picaridin by Sawyer",
+            "excerpt": "20% Picaridin by Sawyer 0.5oz 20% Picaridin by Sawyer 3.0oz 0.5oz: Was: $5.00 You save: $2.00",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>20% Picaridin by Sawyer 0.5oz</p>\n<p>20% Picaridin by Sawyer 3.0oz</p>\n<p>0.5oz: Was: $5.00 You save: $2.00</p>\n</div>",
+            "price": 3,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/picaridin05oz.jpg",
+            "category_slugs": [
+                "over-the-counter-med-items"
+            ],
+            "variants": [
+                {
+                    "label": "20% Picaridin by Sawyer 0.5oz",
+                    "price": 3
+                },
+                {
+                    "label": "20% Picaridin by Sawyer 3oz",
+                    "price": 10
+                }
+            ],
+            "original_url": "/product/20-picaridin-sawyer"
+        },
+        {
+            "slug": "cera-electrolyte-packet",
+            "title": "Cera Electrolyte  packet",
+            "excerpt": "Cera Electrolyte packet Probably the best absorbed, oral electrolyte product - rice base - 1 packet, $2.50",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>Cera Electrolyte  packet</p>\n<p>Probably the best absorbed, oral electrolyte product - rice base - 1 packet,<br>\n\t </p>\n<p>$2.50 </p>\n</div>",
+            "price": 2.5,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/CeraLyte-sm.jpg",
+            "category_slugs": [
+                "over-the-counter-med-items"
+            ],
+            "variants": [],
+            "original_url": "/product/cera-electrolyte-packet"
+        },
+        {
+            "slug": "cera-electrolyte-50g-packet",
+            "title": "Cera Electrolyte 50g packet",
+            "excerpt": "Cera Electrolyte 50g packet Probably the best absorbed, oral electrolyte product - rice base - 50g packet, sport EX1 orange or lite 70 lemon [for severe diarrhea]. Was: $5.00 You save: $1.00",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>Cera Electrolyte 50g packet</p>\n<p>Probably the best absorbed, oral electrolyte product - rice base - 50g packet,<br>\nsport EX1 orange or lite 70 lemon [for severe diarrhea].</p>\n<p>Was: $5.00  You save: $1.00</p>\n</div>",
+            "price": 5,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/CeraLyte-sm_0.jpg",
+            "category_slugs": [
+                "over-the-counter-med-items"
+            ],
+            "variants": [],
+            "original_url": "/product/cera-electrolyte-50g-packet"
+        },
+        {
+            "slug": "l-acetyl-glutathione",
+            "title": "L acetyl glutathione",
+            "excerpt": "L acetyl glutathione - this strong master anti oxidant is a transdermal cream that often: heals rashes, repairs tendons, improves skin and joints [contains no steroids or aspirin] The product makes no...",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>L acetyl glutathione - this strong master anti oxidant is a transdermal cream that often: heals rashes, repairs tendons, improves skin and joints [contains no steroids or aspirin] <br>\nThe product makes no healing claims and refers to use for skin.  A booklet on the chemical is available for $3----  4oz tube.</p>\n<p>Was: $105.00  You save: $10.00</p>\n</div>",
+            "price": 95,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/default_images/book_uncertain_times.jpg",
+            "category_slugs": [
+                "over-the-counter-med-items"
+            ],
+            "variants": [],
+            "original_url": "/product/l-acetyl-glutathione"
+        },
+        {
+            "slug": "new-skin",
+            "title": "New Skin",
+            "excerpt": "NEW SKIN - great hot spot blister treatment and simple CLEAN wound closer [clean it first] $5.00",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>NEW SKIN - great hot spot blister treatment and simple CLEAN wound closer [clean it first]</p>\n<p> $5.00 </p>\n</div>",
+            "price": 5,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/newskin.jpg",
+            "category_slugs": [
+                "over-the-counter-med-items"
+            ],
+            "variants": [],
+            "original_url": "/product/new-skin"
+        },
+        {
+            "slug": "permethrin-sawyer-12oz",
+            "title": "Permethrin by Sawyer 12oz.",
+            "excerpt": "Permethrin by Sawyer 12oz. Premium Permethrin Clothing Insect Repellent - Odorless - As effective as 100-Percent DEET - Does not harm fabrics and finishes - Lasts up to 6 weeks or up to 6 washings - 1...",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>Permethrin by Sawyer 12oz.</p>\n<p>Premium Permethrin Clothing Insect Repellent<br>\n- Odorless<br>\n- As effective as 100-Percent DEET<br>\n- Does not harm fabrics and finishes<br>\n- Lasts up to 6 weeks or up to 6 washings<br>\n- 12-ounce capacity treats up to 2 complete outfits</p>\n<p>Was: $12.00  You save: $2.00</p>\n</div>",
+            "price": 10,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/permethrin.jpg",
+            "category_slugs": [
+                "over-the-counter-med-items"
+            ],
+            "variants": [],
+            "original_url": "/product/permethrin-sawyer-12oz"
+        },
+        {
+            "slug": "zanfel",
+            "title": "ZANFEL",
+            "excerpt": "ZANFEL Poison Ivy Oak And Sumac Wash - a poison ivy plant treatment that is remarkable one tube treats up to 15 patients. - One-ounce tube contains wash treatment for poison ivy, oak, and sumac (urish...",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>ZANFEL Poison Ivy Oak And Sumac Wash<br>\n- a poison ivy plant treatment that is remarkable<br>\none tube treats up to 15 patients.</p>\n<p>- One-ounce tube contains wash treatment for poison ivy, oak, and sumac (urishiol)<br>\n- Itching and pain are relieved within 30 seconds of treatment<br>\n- Safe for children, pregnant, and nursing women<br>\n- Topical solution can be used on external body areas including the face and genitals<br>\n- Can be used in conjunction with steroid treatments</p>\n<p>Was: $40.00  You save: $3.00</p>\n</div>",
+            "price": 37,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/zanfel-small.jpg",
+            "category_slugs": [
+                "over-the-counter-med-items",
+                "individual-items"
+            ],
+            "variants": [],
+            "original_url": "/product/zanfel"
+        },
+        {
+            "slug": "check-order-are-all-your-items-stock-0",
+            "title": "CHECK BEFORE ORDER ARE ALL YOUR ITEMS IN STOCK?",
+            "excerpt": "TK4 highest test rated by the NAVY Small and easy to use, the TK-4 compression strap allows users to quickly apply compression against a wound or to compression an extremity to reduce the excessive bl...",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>TK4 highest test rated by the NAVY<br>\nSmall and easy to use, the TK-4 compression strap allows users to quickly apply compression against a wound or to compression an extremity to reduce the excessive blood loss. The elastic strap stretches to add more pressure over the wound area.<br>\n2 oz.</p>\n</div>",
+            "price": 8,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/TK4-300x200.jpg",
+            "category_slugs": [
+                "individual-items"
+            ],
+            "variants": [],
+            "original_url": "/product/check-order-are-all-your-items-stock-0"
+        },
+        {
+            "slug": "bag-valve-mask-bvm-handheld",
+            "title": "Bag-Valve-Mask (BVM) Handheld",
+            "excerpt": "BVM - a hand-held device for manual resuscitation and emergency respiratory support for adult patients. This device is designed for one-time patient use; however it can be re-folded for training purpo...",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>BVM - a hand-held device for manual resuscitation and emergency respiratory support for adult patients. This device is designed for one-time patient use; however it can be re-folded for training purposes. It is ideal in emergency setting as it is a very small compact unit with true BVM operational capabilities and includes high quality silicon mask made in Israel.</p>\n</div>",
+            "price": 48,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/PBVM-C.jpg",
+            "category_slugs": [
+                "individual-items"
+            ],
+            "variants": [],
+            "original_url": "/product/bag-valve-mask-bvm-handheld"
+        },
+        {
+            "slug": "bp-cuff-single-hose-one-handed-blood-pressure-cuff",
+            "title": "BP Cuff - Single hose one handed Blood Pressure cuff",
+            "excerpt": "BP Cuff - Single hose one handed Blood Pressure cuff. These used to be over $100 but while supply lasts are $45.",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>BP Cuff - Single hose one handed Blood Pressure cuff.</p>\n<p>These used to be over $100 but while supply lasts are $45.</p>\n</div>",
+            "price": 45,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/PRESTIGE-887-NAV-D.jpg",
+            "category_slugs": [
+                "individual-items"
+            ],
+            "variants": [],
+            "original_url": "/product/bp-cuff-single-hose-one-handed-blood-pressure-cuff"
+        },
+        {
+            "slug": "ambu-adjustable-cervical-collar",
+            "title": "Ambu Adjustable Cervical collar",
+            "excerpt": "Ambu Adjustable Cervical collar",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>Ambu Adjustable Cervical collar</p>\n</div>",
+            "price": 18,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/AmbuCervicalCollar.jpg",
+            "category_slugs": [
+                "individual-items"
+            ],
+            "variants": [],
+            "original_url": "/product/ambu-adjustable-cervical-collar"
+        },
+        {
+            "slug": "bag-valve-mask-bvm",
+            "title": "Bag-Valve-Mask (BVM)",
+            "excerpt": "Bag-Valve-Mask (BVM) various brands are carried depending on price and availability. The one sent may not be the one in the photo.",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>Bag-Valve-Mask (BVM)</p>\n<p>various brands are carried depending on price and availability. The one sent may not be the one in the photo.</p>\n</div>",
+            "price": 28,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/BVM.jpg",
+            "category_slugs": [
+                "individual-items"
+            ],
+            "variants": [],
+            "original_url": "/product/bag-valve-mask-bvm"
+        },
+        {
+            "slug": "bp-cuff",
+            "title": "BP Cuff",
+            "excerpt": "BP Cuff, gage guard NOT included! a few discount close out patterns with lower prices ask",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>BP Cuff, gage guard NOT included! a few discount close out patterns with lower prices ask</p>\n</div>",
+            "price": 28,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/BPcuff.jpg",
+            "category_slugs": [
+                "individual-items"
+            ],
+            "variants": [],
+            "original_url": "/product/bp-cuff"
+        },
+        {
+            "slug": "cinch-tight",
+            "title": "Cinch tight one hand pressure bandage",
+            "excerpt": "Cinch tight one hand pressure bandage price effective 1-1-2021 $11.50 when supply of cinch tights run out will be shipping H bandage which is newer version by same company H&H",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>Cinch tight one hand pressure bandage price effective 1-1-2021 $11.50</p>\n<p> when supply of cinch tights run out will be shipping H bandage  which is newer version by same company H&amp;H</p>\n</div>",
+            "price": 9,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/CinchTight.jpg",
+            "category_slugs": [
+                "individual-items"
+            ],
+            "variants": [],
+            "original_url": "/product/cinch-tight"
+        },
+        {
+            "slug": "coban",
+            "title": "Coban",
+            "excerpt": "Coban",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>Coban</p>\n</div>",
+            "price": 2,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/coban.jpg",
+            "category_slugs": [
+                "individual-items"
+            ],
+            "variants": [],
+            "original_url": "/product/coban"
+        },
+        {
+            "slug": "cpr-belt-pouch",
+            "title": "CPR belt pouch",
+            "excerpt": "CPR belt pouch holding: gloves CPR Shield Antimicrobial wipe space for extras see WMO survival belt pouch",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>CPR belt pouch<br>\nholding:<br>\ngloves<br>\nCPR Shield<br>\nAntimicrobial wipe<br>\nspace for extras see WMO survival belt pouch</p>\n</div>",
+            "price": 15,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/CPRbeltpouch.jpg",
+            "category_slugs": [
+                "individual-items"
+            ],
+            "variants": [],
+            "original_url": "/product/cpr-belt-pouch"
+        },
+        {
+            "slug": "cpr-shield-4-o2",
+            "title": "CPR shield (4-O2)",
+            "excerpt": "CPR shield (4-O2)",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>CPR shield (4-O2)</p>\n</div>",
+            "price": 5,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/CPRShield-4O2.jpg",
+            "category_slugs": [
+                "individual-items"
+            ],
+            "variants": [],
+            "original_url": "/product/cpr-shield-4-o2"
+        },
+        {
+            "slug": "check-order-are-all-your-items-stock-1",
+            "title": "CHECK BEFORE ORDER ARE ALL YOUR ITEMS IN STOCK???",
+            "excerpt": "CPR shield and key ring",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>CPR shield and key ring</p>\n</div>",
+            "price": 15,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/CPRShield-keyring.jpg",
+            "category_slugs": [
+                "individual-items"
+            ],
+            "variants": [],
+            "original_url": "/product/check-order-are-all-your-items-stock-1"
+        },
+        {
+            "slug": "eent-pocket-set",
+            "title": "E.E.N.T. Pocket Set",
+            "excerpt": "E.E.N.T. Pocket Set Eye, Ear,Nose and Throat medical kits 3 different sets available: 1 - Ear set has light body, ear scope 4x magnifiger, 3 ear pieces, throat exam and 1 extra piece 2 - Eye + set has...",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>E.E.N.T. Pocket Set</p>\n<p>Eye, Ear,Nose and Throat medical kits</p>\n<p>3 different sets available:</p>\n<p>1 - Ear set has light body, ear scope 4x magnifiger, 3 ear pieces, throat exam  and 1 extra piece<br>\n2 - Eye + set has ear set, plus red night vision lense,  colbalt blue lens + floricine strips, throat exam  and 2 extra pieces $89<br>\n3 - Deluxe set includes Ear, Eye,Nose,Throat and Wound set with spares with case<br>\nCarl helped design this useful, very versatile and compact set. The latest detailed instructions<br>\nsheet is available with WMOs free lessons at<br>\n                  <a href=\"http://learn.wildernessmedicine.com/course/view.php?id=22\">http://learn.wildernessmedicine.com/course/view.php?id=22</a>.</p>\n<p> </p>\n</div>",
+            "price": 55,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/ent-deluxe2.png",
+            "category_slugs": [
+                "individual-items"
+            ],
+            "variants": [
+                {
+                    "label": "ENT - Deluxe set with spares and case",
+                    "price": 125
+                },
+                {
+                    "label": "ENT - Ear set",
+                    "price": 55
+                },
+                {
+                    "label": "ENT - Eye set",
+                    "price": 55
+                }
+            ],
+            "original_url": "/product/eent-pocket-set"
+        },
+        {
+            "slug": "emt-rescue-shears",
+            "title": "EMT Rescue shears",
+            "excerpt": "EMT Rescue shears",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>EMT Rescue shears</p>\n</div>",
+            "price": 5,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/EMTRescueShears.jpg",
+            "category_slugs": [
+                "individual-items"
+            ],
+            "variants": [
+                {
+                    "label": "EMT Rescue shears 5inch (right)",
+                    "price": 5
+                },
+                {
+                    "label": "EMT Rescue shears 7.25inch (left)",
+                    "price": 7
+                }
+            ],
+            "original_url": "/product/emt-rescue-shears"
+        },
+        {
+            "slug": "engo-blister-stop-boot-patch",
+            "title": "ENGO blister stop boot patch",
+            "excerpt": "ENGO blister stop boot patch",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>ENGO blister stop boot patch</p>\n</div>",
+            "price": 2.5,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/ENGO-30LO-1.jpg",
+            "category_slugs": [
+                "individual-items"
+            ],
+            "variants": [],
+            "original_url": "/product/engo-blister-stop-boot-patch"
+        },
+        {
+            "slug": "forehead-thermometer",
+            "title": "Forehead Thermometer",
+            "excerpt": "Forehead Thermometer",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>Forehead Thermometer</p>\n</div>",
+            "price": 5,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/ForeheadThermometer.jpg",
+            "category_slugs": [
+                "individual-items"
+            ],
+            "variants": [],
+            "original_url": "/product/forehead-thermometer"
+        },
+        {
+            "slug": "heavy-duty-cloth-triangle-w-instructions",
+            "title": "Heavy Duty Cloth Triangle w/ Instructions",
+            "excerpt": "Heavy Duty Cloth Triangle 45\"x45\"x64\"[+/-] w/ Instructions",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>Heavy Duty Cloth Triangle 45\"x45\"x64\"[+/-] w/ Instructions</p>\n</div>",
+            "price": 7,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/WMO-HeavyTriangleBandage.jpg",
+            "category_slugs": [
+                "individual-items"
+            ],
+            "variants": [],
+            "original_url": "/product/heavy-duty-cloth-triangle-w-instructions"
+        },
+        {
+            "slug": "2-inch-precision-splinter-grabber",
+            "title": "2 inch precision splinter grabber",
+            "excerpt": "2 inch precision splinter grabber",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>2 inch precision splinter grabber</p>\n</div>",
+            "price": 3.5,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/HemostatKelly.jpg",
+            "category_slugs": [
+                "individual-items"
+            ],
+            "variants": [],
+            "original_url": "/product/2-inch-precision-splinter-grabber"
+        },
+        {
+            "slug": "hypothermia-thermometer-out-stock",
+            "title": "Hypothermia Thermometer out of stock",
+            "excerpt": "fever strip in stock$5",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>fever strip in stock$5</p>\n</div>",
+            "price": 14,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/HypothermiaThermometer.jpg",
+            "category_slugs": [
+                "individual-items"
+            ],
+            "variants": [],
+            "original_url": "/product/hypothermia-thermometer-out-stock"
+        },
+        {
+            "slug": "kendrick-traction-device",
+            "title": "Kendrick Traction Device",
+            "excerpt": "Kendrick Traction Device 20 oz of the orthopedic most correct and easy to use femur traction traction device.",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>Kendrick Traction Device<br>\n20 oz of the orthopedic most correct and easy to use femur traction traction device.</p>\n</div>",
+            "price": 135,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/KendrickTractionDevice.jpg",
+            "category_slugs": [
+                "individual-items"
+            ],
+            "variants": [],
+            "original_url": "/product/kendrick-traction-device"
+        },
+        {
+            "slug": "laryngoscope",
+            "title": "Laryngoscope",
+            "excerpt": "Laryngoscope - metal handle, 5 fiber opt blade [ while supplies last ]",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>Laryngoscope - metal handle, 5 fiber opt blade</p>\n<p>[ while supplies last ]</p>\n</div>",
+            "price": 117,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/default_images/book_uncertain_times.jpg",
+            "category_slugs": [
+                "individual-items"
+            ],
+            "variants": [],
+            "original_url": "/product/laryngoscope"
+        },
+        {
+            "slug": "lma",
+            "title": "LMA",
+            "excerpt": "Laryngeal mask airway ( L M A )",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>Laryngeal mask airway ( L M A )</p>\n</div>",
+            "price": 35,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/LMA.jpg",
+            "category_slugs": [
+                "individual-items"
+            ],
+            "variants": [],
+            "original_url": "/product/lma"
+        },
+        {
+            "slug": "nasopharyngeal-airway-set",
+            "title": "Nasopharyngeal Airway set",
+            "excerpt": "Nasopharyngeal Airway set",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>Nasopharyngeal Airway set</p>\n</div>",
+            "price": 19,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/NasopharyngealAirwaySet.jpg",
+            "category_slugs": [
+                "individual-items"
+            ],
+            "variants": [],
+            "original_url": "/product/nasopharyngeal-airway-set"
+        },
+        {
+            "slug": "nitril-exam-gloves-qty-6",
+            "title": "Nitril Exam gloves (qty 6)",
+            "excerpt": "Nitril Exam gloves (qty 6)",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>Nitril Exam gloves (qty 6)</p>\n</div>",
+            "price": 1.5,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/default_images/book_uncertain_times.jpg",
+            "category_slugs": [
+                "individual-items"
+            ],
+            "variants": [],
+            "original_url": "/product/nitril-exam-gloves-qty-6"
+        },
+        {
+            "slug": "o2-includes-c-cyl-regulator-and-accessories",
+            "title": "O2 includes C-cyl, regulator and accessories",
+            "excerpt": "O2 includes C-cyl, regulator and accessories call for curret pricing which depends on tank size",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>O2 includes C-cyl, regulator and accessories  call for curret pricing which depends on tank size</p>\n</div>",
+            "price": 179,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/OxygenTank.jpg",
+            "category_slugs": [
+                "individual-items"
+            ],
+            "variants": [],
+            "original_url": "/product/o2-includes-c-cyl-regulator-and-accessories"
+        },
+        {
+            "slug": "opsites-occlusive-bandage",
+            "title": "Opsites Occlusive Bandage",
+            "excerpt": "\"Opsites\" [may be different brand] semipermeable bio occlusive dressing 2 3/8\" X 2 3/4\" small size 4\" X 5\" large size",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>\"Opsites\" [may be different brand] semipermeable bio occlusive dressing</p>\n<p>2 3/8\" X 2 3/4\" small size</p>\n<p>4\" X 5\" large size</p>\n</div>",
+            "price": 1.5,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/OpSite-large.jpg",
+            "category_slugs": [
+                "individual-items"
+            ],
+            "variants": [
+                {
+                    "label": "Opsites Occlusive Bandage -large",
+                    "price": 3
+                },
+                {
+                    "label": "Opsites Occlusive Bandage -small",
+                    "price": 1.5
+                }
+            ],
+            "original_url": "/product/opsites-occlusive-bandage"
+        },
+        {
+            "slug": "oral-airway-set-2",
+            "title": "Oral Airway set of 2",
+            "excerpt": "Oral Airway set of 2",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>Oral Airway set of 2</p>\n</div>",
+            "price": 4,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/OralAirway.jpg",
+            "category_slugs": [
+                "individual-items"
+            ],
+            "variants": [],
+            "original_url": "/product/oral-airway-set-2"
+        },
+        {
+            "slug": "pulse-oximeter",
+            "title": "Pulse Oximeter",
+            "excerpt": "Pulse Oximeter - top medical grade 1 color display screen Fingertip measurement of Sp02% (Oxygen Saturation) and pulse rate. LED display screen. Low power consumption with auto shut-off feature. Up to...",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>Pulse Oximeter - top medical grade  1 color display screen</p>\n<p>Fingertip measurement of Sp02% (Oxygen Saturation) and pulse rate. LED display screen. Low power consumption with auto shut-off feature. Up to 30 hours of continuous use. Lightweight and compact design.</p>\n<p>This has the high accuracy of more expensive models. Comes with Two AAA batteries, soft silicone protective case and lanyard  choice of color from current stock.</p>\n<p>Available colors: white, pink, purple or grey</p>\n<p>MSRP: $49.75</p>\n</div>",
+            "price": 44,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/pulseox-basic.jpg",
+            "category_slugs": [
+                "individual-items"
+            ],
+            "variants": [
+                {
+                    "label": "Pulse Oximeter - Grey",
+                    "price": 44
+                },
+                {
+                    "label": "Pulse Oximeter - Pink",
+                    "price": 44
+                },
+                {
+                    "label": "Pulse Oximeter - Purple",
+                    "price": 44
+                },
+                {
+                    "label": "Pulse Oximeter - White",
+                    "price": 44
+                }
+            ],
+            "original_url": "/product/pulse-oximeter"
+        },
+        {
+            "slug": "quikclot-combat-gauze",
+            "title": "QuikClot combat gauze",
+            "excerpt": "Quik Clot combat gauze - green pack granules no longer available",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>Quik Clot combat gauze -</p>\n<p>green pack granules no longer available</p>\n</div>",
+            "price": 20,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/QuikClot-gauze.jpg",
+            "category_slugs": [
+                "individual-items"
+            ],
+            "variants": [],
+            "original_url": "/product/quikclot-combat-gauze"
+        },
+        {
+            "slug": "reusable-heat-pack",
+            "title": "Reusable Heat Pack",
+            "excerpt": "Reusable Heat Pack",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>Reusable Heat Pack</p>\n</div>",
+            "price": 5,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/HeatPack-resuable.jpg",
+            "category_slugs": [
+                "individual-items"
+            ],
+            "variants": [],
+            "original_url": "/product/reusable-heat-pack"
+        },
+        {
+            "slug": "sam-splint-2023-prices",
+            "title": "SAM Splint 2023 prices",
+            "excerpt": "SAM Splint - original $18 SAM Splint - clone IS AVAILABLE $9 X-Large SAM splint is 5.5 inches x 36 inches. $15",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>SAM Splint - original $18</p>\n<p>SAM Splint - clone IS AVAILABLE  $9</p>\n<p>X-Large SAM splint is 5.5 inches x 36 inches. $15</p>\n</div>",
+            "price": 9,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/SAMSplint.jpg",
+            "category_slugs": [
+                "individual-items"
+            ],
+            "variants": [
+                {
+                    "label": "SAM Splint - clone",
+                    "price": 9
+                },
+                {
+                    "label": "SAM Splint - original",
+                    "price": 14
+                },
+                {
+                    "label": "SAM Splint X-Large",
+                    "price": 16
+                }
+            ],
+            "original_url": "/product/sam-splint-2023-prices"
+        },
+        {
+            "slug": "sawyer-extractor",
+            "title": "Sawyer Extractor",
+            "excerpt": "Sawyer Extractor",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>Sawyer Extractor</p>\n</div>",
+            "price": 14,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/biteextractor.jpg",
+            "category_slugs": [
+                "individual-items"
+            ],
+            "variants": [],
+            "original_url": "/product/sawyer-extractor"
+        },
+        {
+            "slug": "silicone-mask-valve",
+            "title": "Silicone Mask with valve",
+            "excerpt": "Silicone Mask with valve",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>Silicone Mask with valve</p>\n</div>",
+            "price": 15,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/SealEasyPocketMask.jpg",
+            "category_slugs": [
+                "individual-items"
+            ],
+            "variants": [],
+            "original_url": "/product/silicone-mask-valve"
+        },
+        {
+            "slug": "spenco-2nd-skin-dressings",
+            "title": "Spenco 2nd Skin Dressings",
+            "excerpt": "Spenco 2nd Skin Dressings",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>Spenco 2nd Skin Dressings</p>\n</div>",
+            "price": 1.5,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/2ndSkinMoistBurnPad.jpg",
+            "category_slugs": [
+                "individual-items"
+            ],
+            "variants": [],
+            "original_url": "/product/spenco-2nd-skin-dressings"
+        },
+        {
+            "slug": "spenco-adhesive-knits",
+            "title": "Spenco Adhesive Knits",
+            "excerpt": "Spenco Adhesive Knit per 3\" X 5\" sheet",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>Spenco Adhesive Knit per 3\" X 5\" sheet</p>\n</div>",
+            "price": 1.5,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/SecondSkinAdhesiveKnit.jpg",
+            "category_slugs": [
+                "individual-items"
+            ],
+            "variants": [],
+            "original_url": "/product/spenco-adhesive-knits"
+        },
+        {
+            "slug": "stapler-and-staple-remover",
+            "title": "Stapler and Staple remover",
+            "excerpt": "Stapler and Staple remover",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>Stapler and Staple remover</p>\n</div>",
+            "price": 30,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/default_images/book_uncertain_times.jpg",
+            "category_slugs": [
+                "individual-items"
+            ],
+            "variants": [],
+            "original_url": "/product/stapler-and-staple-remover"
+        },
+        {
+            "slug": "stethoscope-various",
+            "title": "Stethoscope - various",
+            "excerpt": "Stethoscopes: Cardiology (left) $120 Classic (second from left) $35 Sprague (third from left) $18 Backcountry (right) $15",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>Stethoscopes:<br>\nCardiology (left) $120<br>\nClassic (second from left) $35<br>\nSprague (third from left) $18<br>\nBackcountry (right) $15 <br>\n </p>\n</div>",
+            "price": 9,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/Stethoscopes.jpg",
+            "category_slugs": [
+                "individual-items"
+            ],
+            "variants": [
+                {
+                    "label": "Stethoscope - backcountry (right)",
+                    "price": 9
+                },
+                {
+                    "label": "Stethoscope - cardiology (left)",
+                    "price": 150
+                },
+                {
+                    "label": "Stethoscope - classic (2nd from left)",
+                    "price": 35
+                },
+                {
+                    "label": "Stethoscope - sprague (3rd from left)",
+                    "price": 18
+                }
+            ],
+            "original_url": "/product/stethoscope-various"
+        },
+        {
+            "slug": "stethoscope-backcountry-deluxe",
+            "title": "Stethoscope - backcountry deluxe",
+            "excerpt": "Stethoscope - backcountry deluxe",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>Stethoscope - backcountry deluxe</p>\n</div>",
+            "price": 30,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/BackCountryDeluxeStethoscope.jpg",
+            "category_slugs": [
+                "individual-items"
+            ],
+            "variants": [],
+            "original_url": "/product/stethoscope-backcountry-deluxe"
+        },
+        {
+            "slug": "suture-set-one-pack",
+            "title": "Suture Set (one pack)",
+            "excerpt": "Suture Set (one pack)",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>Suture Set (one pack)</p>\n</div>",
+            "price": 30,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/SutureSet.jpg",
+            "category_slugs": [
+                "individual-items"
+            ],
+            "variants": [],
+            "original_url": "/product/suture-set-one-pack"
+        },
+        {
+            "slug": "wmo-tyvek-triangle-bandage",
+            "title": "WMO tyvek Triangle bandage",
+            "excerpt": "WMO Plastic Fabric Water use bandage made in Colorado out of Tyvek an ideal triangle bandage of use in and around water as it will not miss shape when wet BACK IN STOCK PRICE 2023-- $6",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>WMO Plastic Fabric Water use bandage<br>\nmade in Colorado out of Tyvek<br>\nan ideal triangle bandage of use in and around water as it will not miss shape when wet</p>\n<p><strong>BACK IN  STOCK PRICE 2023-- $6</strong></p>\n</div>",
+            "price": 3,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/WMO-tyvekTriangle.jpg",
+            "category_slugs": [
+                "individual-items"
+            ],
+            "variants": [],
+            "original_url": "/product/wmo-tyvek-triangle-bandage"
+        },
+        {
+            "slug": "2-lite-led-new-better-unit-now-24",
+            "title": "2 lite led new better unit now $24",
+            "excerpt": "6 LED sold out -- Replaced with USA made glow in dark 2 LED 2 level smaller snap on 9volt unit $24@ Unique 6 LED flashlight, two levels of light - 6 LEDs[high] or 2 LEDs[low] Just replace the 9 volt b...",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>6 LED sold out -- Replaced with USA made glow in dark 2 LED 2 level smaller snap on 9volt unit $24@ </p>\n<p>Unique 6 LED flashlight, two levels of light - 6 LEDs[high] or 2 LEDs[low]<br>\nJust replace the 9 volt battery when it runs out by unsnapping the light head and snapping onto a new battery.</p>\n<p> </p>\n</div>",
+            "price": 5,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/9voltLEDlite.jpg",
+            "category_slugs": [
+                "non-medical-items"
+            ],
+            "variants": [],
+            "original_url": "/product/2-lite-led-new-better-unit-now-24"
+        },
+        {
+            "slug": "carabiner-altimeter",
+            "title": "Carabiner Altimeter",
+            "excerpt": "Carabiner Altimeter",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>Carabiner Altimeter</p>\n</div>",
+            "price": 65,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/CaribinerAltimeter.jpg",
+            "category_slugs": [
+                "non-medical-items"
+            ],
+            "variants": [],
+            "original_url": "/product/carabiner-altimeter"
+        },
+        {
+            "slug": "katadyn-base-camp-water-filter",
+            "title": "Katadyn Base Camp water filter",
+            "excerpt": "Katadyn Base Camp water filter",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>Katadyn Base Camp water filter</p>\n</div>",
+            "price": 69,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/kat-basecamp.jpg",
+            "category_slugs": [
+                "non-medical-items"
+            ],
+            "variants": [],
+            "original_url": "/product/katadyn-base-camp-water-filter"
+        },
+        {
+            "slug": "katadyn-hiker-water-filter",
+            "title": "Katadyn Hiker water filter",
+            "excerpt": "Katadyn Hiker water filter",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>Katadyn Hiker water filter</p>\n</div>",
+            "price": 74,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/kat-hiker.jpg",
+            "category_slugs": [
+                "non-medical-items"
+            ],
+            "variants": [],
+            "original_url": "/product/katadyn-hiker-water-filter"
+        },
+        {
+            "slug": "katadyn-micropur-10-tablets",
+            "title": "Katadyn Micropur 10 tablets",
+            "excerpt": "Katadyn Micropur 10 tablets",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>Katadyn Micropur 10 tablets</p>\n</div>",
+            "price": 5,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/kat-micropur2-med.jpg",
+            "category_slugs": [
+                "non-medical-items"
+            ],
+            "variants": [],
+            "original_url": "/product/katadyn-micropur-10-tablets"
+        },
+        {
+            "slug": "katadyn-micropur-30-tablets",
+            "title": "Katadyn Micropur 30 tablets",
+            "excerpt": "Katadyn Micropur 30 tablets",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>Katadyn Micropur 30 tablets</p>\n</div>",
+            "price": 14,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/Micropur.jpg",
+            "category_slugs": [
+                "non-medical-items"
+            ],
+            "variants": [],
+            "original_url": "/product/katadyn-micropur-30-tablets"
+        },
+        {
+            "slug": "katadyn-mybottle",
+            "title": "Katadyn MyBottle",
+            "excerpt": "Katadyn MyBottle water filter",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>Katadyn MyBottle water filter</p>\n</div>",
+            "price": 59,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/kat-mybottle-large.jpg",
+            "category_slugs": [
+                "non-medical-items"
+            ],
+            "variants": [],
+            "original_url": "/product/katadyn-mybottle"
+        },
+        {
+            "slug": "katadyn-optimus-crux-stove",
+            "title": "Katadyn Optimus Crux stove",
+            "excerpt": "Katadyn Optimus Crux stove",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>Katadyn Optimus Crux stove</p>\n</div>",
+            "price": 39,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/kat-crux.jpg",
+            "category_slugs": [
+                "non-medical-items"
+            ],
+            "variants": [],
+            "original_url": "/product/katadyn-optimus-crux-stove"
+        },
+        {
+            "slug": "katadyn-optimus-nova-stove",
+            "title": "Katadyn Optimus Nova stove",
+            "excerpt": "Katadyn Optimus Nova stove",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>Katadyn Optimus Nova stove</p>\n</div>",
+            "price": 139,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/kat-nova.jpg",
+            "category_slugs": [
+                "non-medical-items"
+            ],
+            "variants": [],
+            "original_url": "/product/katadyn-optimus-nova-stove"
+        },
+        {
+            "slug": "katadyn-optimus-svea-stove",
+            "title": "Katadyn Optimus Svea stove",
+            "excerpt": "Katadyn Optimus Svea stove",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>Katadyn Optimus Svea stove</p>\n</div>",
+            "price": 109,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/kat-svea.jpg",
+            "category_slugs": [
+                "non-medical-items"
+            ],
+            "variants": [],
+            "original_url": "/product/katadyn-optimus-svea-stove"
+        },
+        {
+            "slug": "katadyn-pocket-water-filter",
+            "title": "Katadyn Pocket water filter",
+            "excerpt": "Katadyn Pocket water filter pocket filter only 20 yr warranty, easily exceeds 10,000 gallons",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>Katadyn Pocket water filter<br>\npocket filter only 20 yr warranty, easily exceeds 10,000 gallons</p>\n</div>",
+            "price": 360,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/kat-pocket.jpg",
+            "category_slugs": [
+                "non-medical-items"
+            ],
+            "variants": [],
+            "original_url": "/product/katadyn-pocket-water-filter"
+        },
+        {
+            "slug": "katadyn-vario-water-filter",
+            "title": "Katadyn Vario water filter",
+            "excerpt": "Katadyn Vario water filter",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>Katadyn Vario water filter</p>\n</div>",
+            "price": 69,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/kat-vario.jpg",
+            "category_slugs": [
+                "non-medical-items"
+            ],
+            "variants": [],
+            "original_url": "/product/katadyn-vario-water-filter"
+        },
+        {
+            "slug": "wmo-baseball-caps",
+            "title": "WMO Baseball Caps",
+            "excerpt": "WMO Baseball Caps (various colors)",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>WMO Baseball Caps (various colors)</p>\n</div>",
+            "price": 12,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/hats.jpg",
+            "category_slugs": [
+                "non-medical-items"
+            ],
+            "variants": [],
+            "original_url": "/product/wmo-baseball-caps"
+        },
+        {
+            "slug": "wmo-embroidered-patch",
+            "title": "WMO Embroidered patch",
+            "excerpt": "WMO Embroidered patch",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>WMO Embroidered patch</p>\n</div>",
+            "price": 2,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/WMOEmbroideredPatch.jpg",
+            "category_slugs": [
+                "non-medical-items"
+            ],
+            "variants": [],
+            "original_url": "/product/wmo-embroidered-patch"
+        },
+        {
+            "slug": "wmo-fleece-vest-black-wind-block",
+            "title": "WMO Fleece Vest - Black Wind block",
+            "excerpt": "WMO Fleece Vest - Black Wind block specify Sm, Med, Large, XLarge Thick but light weight fleece delivers wind-resistant warmth in moderate to very cold and provides excellent insulation when layered S...",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>WMO Fleece Vest - Black Wind block<br>\nspecify Sm, Med, Large, XLarge</p>\n<p>Thick but light weight fleece delivers wind-resistant warmth in moderate to very cold and provides excellent insulation when layered</p>\n<p>Special bargain comparable to vests costing 3 times as much<br>\nLimited availability</p>\n</div>",
+            "price": 32,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/WMO-FleeceVest-black_2.jpg",
+            "category_slugs": [
+                "non-medical-items"
+            ],
+            "variants": [
+                {
+                    "label": "WMO-FLCVEST-BLACK-LRG",
+                    "price": 32
+                },
+                {
+                    "label": "WMO-FLCVEST-BLACK-Med",
+                    "price": 32
+                },
+                {
+                    "label": "WMO-FLCVEST-BLACK-Small",
+                    "price": 32
+                },
+                {
+                    "label": "WMO-FLCVEST-BLACK-XL",
+                    "price": 32
+                }
+            ],
+            "original_url": "/product/wmo-fleece-vest-black-wind-block"
+        },
+        {
+            "slug": "wmo-fleece-vest-warm-orange",
+            "title": "WMO Fleece Vest - warm Orange",
+            "excerpt": "Fleece Vest - warm Orange large and XL sold out specify Small or Medium only light weight fleece delivers warmth in moderate temperatures and provides excellent insulation when layered Special bargain...",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>Fleece Vest - warm Orange</p>\n<p>large and XL sold out<br>\nspecify Small or Medium only</p>\n<p>light weight fleece delivers warmth in moderate temperatures and provides excellent insulation when layered</p>\n<p>Special bargain comparable to vests costing 3 times as much</p>\n<p>Limited availability</p>\n</div>",
+            "price": 23,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/WMO-FleeceVest-orange_1.jpg",
+            "category_slugs": [
+                "non-medical-items"
+            ],
+            "variants": [
+                {
+                    "label": "WMO-FLCVEST-ORG Medium",
+                    "price": 23
+                },
+                {
+                    "label": "WMO-FLCVEST-ORG Small",
+                    "price": 23
+                }
+            ],
+            "original_url": "/product/wmo-fleece-vest-warm-orange"
+        },
+        {
+            "slug": "wmo-laminated-trip-tips-card",
+            "title": "WMO laminated \"Trip Tips\" card",
+            "excerpt": "WMO laminated \"Trip Tips\" card",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>WMO laminated \"Trip Tips\" card</p>\n</div>",
+            "price": 0.25,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/default_images/book_uncertain_times.jpg",
+            "category_slugs": [
+                "non-medical-items"
+            ],
+            "variants": [],
+            "original_url": "/product/wmo-laminated-trip-tips-card"
+        },
+        {
+            "slug": "wmo-shirts",
+            "title": "WMO Shirts",
+            "excerpt": "WMO Shirts (Various Colors) (Provide your first choice for color and if we can substitute for another color. Not all sizes are available for each color.)",
+            "body_html": "<div class=\"field-item even\" property=\"content:encoded\"><p>WMO Shirts (Various Colors)<br>\n(Provide your first choice for color and if we can substitute for another color. Not all sizes are available for each color.)</p>\n</div>",
+            "price": 12,
+            "image_url": "https://wildernessmedicine.com/sites/wildernessmedicine.com/files/productimages/Shirts.jpg",
+            "category_slugs": [
+                "non-medical-items"
+            ],
+            "variants": [],
+            "original_url": "/product/wmo-shirts"
+        }
+    ]
+}

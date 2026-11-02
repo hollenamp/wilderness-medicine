@@ -1,0 +1,44 @@
+{
+    "classes": [
+        {
+            "title": "Wilderness Medicine Classes WFR & W-EMT Module Courses",
+            "nav_label": "Wilderness First Responder (WFR) / Wilderness Emergency Medical Technician (WEMT)",
+            "slug": "wfr",
+            "excerpt": "Wilderness Medicine Outfitters WFR/WEMT module course uniquely combines all of the EMT skills and knowledge for the WFR student.",
+            "body_html": "<p>Wilderness Medicine Outfitters WFR/WEMT module course uniquely combines all of the EMT skills and knowledge for the WFR student.</p>",
+            "image_url": null,
+            "original_url": "/wfr",
+            "sort_order": 0
+        },
+        {
+            "title": "WALS Wilderness Advanced Life Support Course & Training",
+            "nav_label": "Wilderness Advanced Life Support (WALS) Expedition Medic",
+            "slug": "wals",
+            "excerpt": "WALS Wilderness Advanced Life Support combines hands on learning with authoritative demonstrations.",
+            "body_html": "<p>WALS Wilderness Advanced Life Support combines hands on learning with authoritative demonstrations.</p>",
+            "image_url": null,
+            "original_url": "/wals",
+            "sort_order": 1
+        },
+        {
+            "title": "To Register: transfer funds and call",
+            "nav_label": "To Register",
+            "slug": "to-register",
+            "excerpt": "This should be skipped because it is a CMS page.",
+            "body_html": "<p>Should not import.</p>",
+            "image_url": null,
+            "original_url": "/to-register",
+            "sort_order": 2
+        },
+        {
+            "title": "Survival Expo",
+            "nav_label": "Class Information",
+            "slug": "november-22-2025-survival-expo",
+            "excerpt": "This should also be skipped.",
+            "body_html": "<p>Should not import.</p>",
+            "image_url": null,
+            "original_url": "/november-22-2025%C2%A0%C2%A010am-4pm%C2%A0survival%C2%A0expo-%C2%A0free-grid-seminar-free-self-reliant%C2%A0seminar-awfa%C2%A0-advanced",
+            "sort_order": 3
+        }
+    ]
+}
