@@ -158,16 +158,16 @@ export default definePage({
                 {
                     name: 'Brad R. Irwin, Esq.',
                     title: 'IRWIN FRALEY, PLLC, Centennial, Colorado',
-                    date: '2026',
+                    date: 'September 2026',
                     testimonial:
                         'Carl was an expert for us in a difficult indoor rock climbing case. His knowledge and professionalism were exceptional and we were able to resolve the case for a severely disabled client that will help to support him throughout the rest of his life. Carl did an outstanding job and I would recommended him as an expert in any outdoor, wilderness, or rock climbing case. Thank you Carl for a job well done!',
                 },
                 {
                     name: 'Edward J. O\'Brien, Esq.',
                     title: 'Law Offices of Edward J. O\'Brien, Braintree, Massachusetts',
-                    date: '2022',
+                    date: 'August 2026',
                     testimonial:
-                        'Great work on the Walsh case. I just wanted to let you know that your efforts were instrumental in resolving my rather difficult liability case where my client suffered a disabling injury at a rock climbing facility after signing a liability waiver. Your insight into the rock climbing facility industry and knowledge of applicable safety standards greatly assisted me in discovery and pursuit of legal theories. Your expert report concisely laid out the bases of liability and was the key piece in defeating the defendant\'s motion for summary judgment, which then led to a successful resolution of the case. Many thanks to you for a job well done!',
+                        'I just wanted to let you know that your efforts were instrumental in resolving my rather difficult liability case where my client suffered a disabling injury at a rock climbing facility after signing a liability waiver. Your insight into the rock climbing facility industry and knowledge of applicable safety standards greatly assisted me in discovery and pursuit of legal theories. Your expert report concisely laid out the bases of liability and was the key piece in defeating the defendant\'s motion for summary judgment, which then led to a successful resolution of the case. Many thanks to you for a job well done!',
                 },
             ],
         }),

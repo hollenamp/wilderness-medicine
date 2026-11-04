@@ -40,11 +40,12 @@ it('keeps original expert witness photos and copy in page schemas', function (st
             'Randy Godin',
             'Brad R. Irwin, Esq.',
             'IRWIN FRALEY, PLLC',
-            "date: '2026'",
+            "date: 'September 2026'",
             'Attorney Letters of Recommendation',
             'indoor rock climbing case',
             'Edward J. O\\\'Brien, Esq.',
-            'Walsh case',
+            "date: 'August 2026'",
+            'defeating the defendant\\\'s motion for summary judgment',
             'Braintree, Massachusetts',
             'prepays travel costs',
             'At a glance',
@@ -162,9 +163,10 @@ it('shows expert witness recommendation letters in a three-column auto-rotating 
         ->and($schema)->toContain('James C. Plott')
         ->and($schema)->toContain('Randy Godin')
         ->and($schema)->toContain('Brad R. Irwin, Esq.')
-        ->and($schema)->toContain("date: '2026'")
+        ->and($schema)->toContain("date: 'September 2026'")
         ->and($schema)->toContain('Edward J. O\\\'Brien, Esq.')
-        ->and($schema)->toContain('Walsh case')
+        ->and($schema)->toContain("date: 'August 2026'")
+        ->and($schema)->toContain('defeating the defendant\\\'s motion for summary judgment')
         ->and($section)->toContain('columns={{ sm: 1, md: 2, lg: 3 }}')
         ->and($section)->toContain('autoRotateInterval={autoRotateInterval}')
         ->and($section)->toContain('controlTone="brand"')
